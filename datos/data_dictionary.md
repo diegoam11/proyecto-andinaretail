@@ -83,8 +83,10 @@ solo internamente para simular ventas y churn, no exportado).
 - **Estacionalidad:** ventas totales por mes muestran pico en julio
   (Fiestas Patrias, factor ×1.6) y el pico más alto en diciembre (Navidad,
   factor ×2.0); enero-febrero por debajo del promedio (factor ×0.85).
-- **Canal digital creciente:** participación conjunta Web+App pasa de
-  ~31% (2023) a ~48% (2025).
+- **Canal digital creciente:** participación conjunta Web+App (sobre
+  ingresos) pasa de ~31% en promedio anual 2023 a ~48% en promedio anual
+  2025 (con tendencia continua dentro de cada año: el extremo mensual va de
+  25.3% en enero 2023 a 55.5% en diciembre 2025).
 - **Caída de margen en Trujillo (desde 2025-Q2):** descuento promedio en
   Trujillo pasa de 5.8% (antes de abril 2025) a 13.0% (desde abril 2025),
   frente a 5.8% del resto del país en el mismo periodo posterior.
