@@ -40,9 +40,10 @@ concentra las ventas del canal Web/App originadas por clientes de esa ciudad.
 | fecha_alta | date | 2018-01-01 a 2024-06-30 | Fecha de alta en catálogo |
 
 **Patrón Pareto:** internamente cada producto recibe un peso de popularidad
-tipo Zipf (no exportado) que determina su probabilidad de ser vendido, de
-forma que ~20% de los productos concentran la mayor parte de las ventas
-(a verificar y explotar en la Parte 2 — análisis 80/20).
+tipo Zipf (no exportado) que determina su probabilidad de ser vendido. El
+análisis 80/20 de la Parte 2 confirmó una concentración incluso más fuerte
+que la regla clásica: solo el **11.4%** de los productos (91 de 800) genera
+el 80% de los ingresos.
 
 ## 3. clientes.csv (15 000 filas)
 
@@ -119,7 +120,7 @@ casi completo).
 
 **Patrón incorporado:** el costo de almacenamiento unitario en las tiendas de
 Trujillo se incrementa entre 40% y 80% desde el periodo 2025-04 en adelante
-(verificado: 1.65 → 2.64 en promedio, frente a 1.61 del resto del país en el
+(verificado: 1.65 → 2.63 en promedio, frente a 1.61 del resto del país en el
 mismo periodo), reforzando junto con `ventas.csv` el patrón diagnóstico de
 caída de margen en esa plaza.
 

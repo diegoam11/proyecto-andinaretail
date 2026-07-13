@@ -390,7 +390,13 @@ def generar_inventario(tiendas: pd.DataFrame, productos: pd.DataFrame, ventas: p
         else:
             n_surtido = rng.integers(500, 800)
         surtido = rng.choice(productos["id_producto"].to_numpy(), size=n_surtido, replace=False)
-        asignacion[t["id_tienda"]] = set(surtido)
+        # rng.choice(..., replace=False) ya garantiza productos unicos; se evita
+        # envolver en set() porque el orden de iteracion de un set de strings en
+        # Python depende del hash-seed aleatorio del proceso (PYTHONHASHSEED),
+        # lo que rompia la reproducibilidad total del script entre ejecuciones
+        # (mismo conjunto de productos por tienda, pero valores de stock/costo
+        # asignados en distinto orden en cada corrida).
+        asignacion[t["id_tienda"]] = list(surtido)
 
     ventas_agg = ventas.copy()
     ventas_agg["periodo"] = ventas_agg["fecha"].dt.to_period("M").astype(str)
