@@ -1,0 +1,25 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Jupyter runtime
+.jupyter/
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Power BI (archivos temporales de Windows, no el .pbix final)
+*.pbix.tmp
+~$*.pbix

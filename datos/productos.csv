@@ -1,0 +1,801 @@
+id_producto,nombre,categoria,subcategoria,marca,precio_lista,costo_unitario,fecha_alta
+P0001,Desodorantes Costa Real 515,Cuidado Personal,Desodorantes,Costa Real,30.7,21.17,2020-12-27
+P0002,Detergentes Inca Blanco 92,Limpieza,Detergentes,Inca Blanco,6.74,4.75,2020-10-19
+P0003,Cervezas MaxHogar 13,Bebidas,Cervezas,MaxHogar,6.2,4.17,2019-01-28
+P0004,Agua Pacifico Home 963,Bebidas,Agua,Pacifico Home,6.01,3.97,2019-05-12
+P0005,Iluminacion Frescor 796,Hogar,Iluminacion,Frescor,70.49,47.16,2021-01-04
+P0006,Organizadores Pacifico Home 5,Hogar,Organizadores,Pacifico Home,40.27,31.41,2020-01-28
+P0007,Bolsas Rimac Hogar 314,Limpieza,Bolsas,Rimac Hogar,7.3,5.4,2020-10-12
+P0008,Cervezas Nortex 155,Bebidas,Cervezas,Nortex,8.66,5.52,2022-10-02
+P0009,Decoracion Nortex 621,Hogar,Decoracion,Nortex,33.13,22.66,2022-11-01
+P0010,Papel higienico Nortex 936,Limpieza,Papel higienico,Nortex,18.95,13.56,2020-09-14
+P0011,Licuadoras Andina 793,Electrohogar,Licuadoras,Andina,351.03,233.54,2022-09-22
+P0012,Lejia Sureña 353,Limpieza,Lejia,Sureña,32.12,25.63,2018-05-20
+P0013,Agua Trujillana 729,Bebidas,Agua,Trujillana,4.42,3.15,2021-12-09
+P0014,Detergentes Limax 959,Limpieza,Detergentes,Limax,36.35,28.27,2022-01-13
+P0015,Gaseosas Costa Real 946,Bebidas,Gaseosas,Costa Real,2.12,1.4,2024-05-13
+P0016,Gaseosas Piurana 360,Bebidas,Gaseosas,Piurana,6.85,4.24,2018-01-31
+P0017,Organizadores Vital 491,Hogar,Organizadores,Vital,69.29,49.39,2021-09-20
+P0018,Textiles de hogar Vital 245,Hogar,Textiles de hogar,Vital,18.33,14.45,2023-02-13
+P0019,Desodorantes Sureña 659,Cuidado Personal,Desodorantes,Sureña,16.6,13.01,2024-06-06
+P0020,Energizantes Pacifico Home 788,Bebidas,Energizantes,Pacifico Home,15.64,9.81,2021-12-31
+P0021,Aceites Costa Real 765,Abarrotes,Aceites,Costa Real,3.54,2.55,2021-11-03
+P0022,Textiles de hogar Cusco Natural 600,Hogar,Textiles de hogar,Cusco Natural,28.13,20.57,2020-03-13
+P0023,Desodorantes MaxHogar 129,Cuidado Personal,Desodorantes,MaxHogar,9.25,5.61,2020-09-28
+P0024,Panaderia Pacifico Home 984,Abarrotes,Panaderia,Pacifico Home,5.3,3.73,2022-04-15
+P0025,Iluminacion Trujillana 355,Hogar,Iluminacion,Trujillana,27.89,18.48,2018-07-03
+P0026,Fideos Piurana 336,Abarrotes,Fideos,Piurana,22.47,15.61,2021-08-17
+P0027,Cafe e infusiones Vital 698,Bebidas,Cafe e infusiones,Vital,13.13,10.21,2018-06-07
+P0028,Agua Piurana 914,Bebidas,Agua,Piurana,12.24,9.41,2020-03-26
+P0029,Televisores Cusco Natural 604,Electrohogar,Televisores,Cusco Natural,241.45,149.78,2018-01-07
+P0030,Lejia Frescor 657,Limpieza,Lejia,Frescor,6.59,4.1,2020-05-22
+P0031,Shampoo Limax 267,Cuidado Personal,Shampoo,Limax,37.29,24.75,2018-04-24
+P0032,Jabon Wari 242,Cuidado Personal,Jabon,Wari,21.7,13.57,2023-02-18
+P0033,Agua Costa Real 184,Bebidas,Agua,Costa Real,13.58,9.65,2019-10-20
+P0034,Detergentes Wari 38,Limpieza,Detergentes,Wari,24.18,16.27,2018-04-13
+P0035,Cuidado facial Pacifico Home 31,Cuidado Personal,Cuidado facial,Pacifico Home,6.52,4.52,2020-05-12
+P0036,Jugos Sol Peruano 33,Bebidas,Jugos,Sol Peruano,8.39,6.64,2024-01-31
+P0037,Shampoo Selecta 852,Cuidado Personal,Shampoo,Selecta,7.23,5.51,2023-12-20
+P0038,Agua Trujillana 134,Bebidas,Agua,Trujillana,12.29,9.46,2024-05-13
+P0039,Planchas MaxHogar 628,Electrohogar,Planchas,MaxHogar,741.53,456.73,2019-06-29
+P0040,Cuidado dental Sol Peruano 7,Cuidado Personal,Cuidado dental,Sol Peruano,7.13,5.06,2021-01-01
+P0041,Ventiladores Amauta 641,Electrohogar,Ventiladores,Amauta,327.15,255.51,2021-10-16
+P0042,Cafe e infusiones Inca Blanco 722,Bebidas,Cafe e infusiones,Inca Blanco,4.92,3.71,2022-03-28
+P0043,Menestras Selecta 743,Abarrotes,Menestras,Selecta,19.97,15.06,2021-06-19
+P0044,Aceites Wari 329,Abarrotes,Aceites,Wari,27.07,21.0,2019-05-03
+P0045,Cervezas Wari 263,Bebidas,Cervezas,Wari,5.72,3.46,2018-08-20
+P0046,Agua Inca Blanco 788,Bebidas,Agua,Inca Blanco,20.38,14.62,2019-02-26
+P0047,Aceites Cusco Natural 492,Abarrotes,Aceites,Cusco Natural,14.36,10.15,2023-11-03
+P0048,Limpiadores de superficie Sol Peruano 153,Limpieza,Limpiadores de superficie,Sol Peruano,15.03,11.95,2021-08-05
+P0049,Cafe e infusiones Cusco Natural 16,Bebidas,Cafe e infusiones,Cusco Natural,3.34,2.58,2021-07-31
+P0050,Desodorantes Nortex 747,Cuidado Personal,Desodorantes,Nortex,11.24,7.41,2022-05-30
+P0051,Microondas Kallpa 435,Electrohogar,Microondas,Kallpa,842.66,665.06,2023-08-08
+P0052,Textiles de hogar Nortex 119,Hogar,Textiles de hogar,Nortex,15.6,9.44,2021-03-19
+P0053,Gaseosas MaxHogar 118,Bebidas,Gaseosas,MaxHogar,3.62,2.89,2018-03-08
+P0054,Aceites Costa Real 883,Abarrotes,Aceites,Costa Real,28.47,20.62,2022-10-22
+P0055,Aceites Sureña 932,Abarrotes,Aceites,Sureña,33.0,23.49,2018-05-30
+P0056,Iluminacion Amauta 298,Hogar,Iluminacion,Amauta,41.18,31.18,2022-03-09
+P0057,Planchas Limax 514,Electrohogar,Planchas,Limax,63.45,49.18,2018-05-30
+P0058,Shampoo Andina 771,Cuidado Personal,Shampoo,Andina,39.25,31.4,2022-10-16
+P0059,Fideos Pacifico Home 591,Abarrotes,Fideos,Pacifico Home,3.08,1.91,2024-02-01
+P0060,Cafe e infusiones Rimac Hogar 442,Bebidas,Cafe e infusiones,Rimac Hogar,13.5,8.56,2018-10-03
+P0061,Televisores Costa Real 887,Electrohogar,Televisores,Costa Real,1195.44,894.65,2019-10-24
+P0062,Textiles de hogar Amauta 475,Hogar,Textiles de hogar,Amauta,120.97,82.68,2020-04-18
+P0063,Cafe e infusiones Wari 430,Bebidas,Cafe e infusiones,Wari,13.18,9.22,2018-05-28
+P0064,Menestras Costa Real 932,Abarrotes,Menestras,Costa Real,10.5,7.79,2022-10-28
+P0065,Lejia Selecta 10,Limpieza,Lejia,Selecta,13.66,8.71,2019-11-06
+P0066,Gaseosas Pacifico Home 73,Bebidas,Gaseosas,Pacifico Home,5.38,3.72,2018-04-30
+P0067,Detergentes Selecta 841,Limpieza,Detergentes,Selecta,13.0,10.1,2022-02-18
+P0068,Menaje de cocina Valle Norte 548,Hogar,Menaje de cocina,Valle Norte,36.19,25.52,2018-08-20
+P0069,Arroz Kallpa 840,Abarrotes,Arroz,Kallpa,22.87,15.48,2024-03-25
+P0070,Televisores Amauta 723,Electrohogar,Televisores,Amauta,763.0,505.9,2021-01-29
+P0071,Cafe e infusiones Kallpa 816,Bebidas,Cafe e infusiones,Kallpa,4.38,3.4,2020-01-16
+P0072,Limpiadores de superficie Piurana 845,Limpieza,Limpiadores de superficie,Piurana,20.59,14.01,2023-05-17
+P0073,Decoracion MaxHogar 959,Hogar,Decoracion,MaxHogar,203.91,159.06,2020-11-02
+P0074,Iluminacion Costa Real 780,Hogar,Iluminacion,Costa Real,80.6,60.31,2021-06-08
+P0075,Ventiladores Pacifico Home 202,Electrohogar,Ventiladores,Pacifico Home,103.67,78.44,2022-12-27
+P0076,Conservas Trujillana 498,Abarrotes,Conservas,Trujillana,3.63,2.48,2018-02-26
+P0077,Cervezas Cusco Natural 293,Bebidas,Cervezas,Cusco Natural,6.52,4.29,2020-01-14
+P0078,Cuidado dental Piurana 835,Cuidado Personal,Cuidado dental,Piurana,7.22,5.45,2023-01-31
+P0079,Papel higienico Pacifico Home 380,Limpieza,Papel higienico,Pacifico Home,29.87,18.48,2019-12-29
+P0080,Decoracion Wari 945,Hogar,Decoracion,Wari,33.31,20.61,2023-06-05
+P0081,Limpiadores de superficie Inca Blanco 961,Limpieza,Limpiadores de superficie,Inca Blanco,5.58,4.34,2019-06-02
+P0082,Papel higienico Wari 172,Limpieza,Papel higienico,Wari,18.16,11.01,2021-05-31
+P0083,Decoracion Costa Real 49,Hogar,Decoracion,Costa Real,40.45,26.74,2022-01-14
+P0084,Jugos Vital 581,Bebidas,Jugos,Vital,9.06,5.72,2022-12-02
+P0085,Aceites Inca Blanco 598,Abarrotes,Aceites,Inca Blanco,7.63,5.55,2020-01-06
+P0086,Licuadoras Inca Blanco 704,Electrohogar,Licuadoras,Inca Blanco,1013.27,733.23,2021-12-07
+P0087,Textiles de hogar Cusco Natural 254,Hogar,Textiles de hogar,Cusco Natural,35.7,21.66,2021-07-27
+P0088,Aceites Piurana 646,Abarrotes,Aceites,Piurana,6.53,4.86,2018-06-27
+P0089,Bolsas Selecta 214,Limpieza,Bolsas,Selecta,29.62,23.14,2020-06-12
+P0090,Microondas Kallpa 922,Electrohogar,Microondas,Kallpa,65.47,49.25,2021-08-28
+P0091,Menaje de cocina Kallpa 570,Hogar,Menaje de cocina,Kallpa,10.2,7.04,2023-05-17
+P0092,Jabon MaxHogar 576,Cuidado Personal,Jabon,MaxHogar,9.47,6.12,2020-02-25
+P0093,Licuadoras Sureña 930,Electrohogar,Licuadoras,Sureña,1199.38,864.07,2022-09-20
+P0094,Arroz Sureña 316,Abarrotes,Arroz,Sureña,29.62,18.51,2018-12-12
+P0095,Organizadores Andina 301,Hogar,Organizadores,Andina,37.61,25.65,2020-10-08
+P0096,Ventiladores Nortex 756,Electrohogar,Ventiladores,Nortex,950.33,664.46,2019-11-21
+P0097,Menaje de cocina Andina 754,Hogar,Menaje de cocina,Andina,20.27,14.63,2018-03-27
+P0098,Jabon Frescor 328,Cuidado Personal,Jabon,Frescor,6.09,3.91,2022-04-19
+P0099,Jugos Nortex 129,Bebidas,Jugos,Nortex,19.19,14.32,2021-11-10
+P0100,Cafe e infusiones Sureña 810,Bebidas,Cafe e infusiones,Sureña,16.79,11.99,2024-01-15
+P0101,Fideos Rimac Hogar 231,Abarrotes,Fideos,Rimac Hogar,4.17,2.85,2019-06-23
+P0102,Ventiladores Andina 425,Electrohogar,Ventiladores,Andina,230.22,156.73,2022-05-12
+P0103,Planchas Piurana 875,Electrohogar,Planchas,Piurana,181.28,138.74,2018-12-29
+P0104,Refrigeradoras Selecta 89,Electrohogar,Refrigeradoras,Selecta,144.7,111.13,2019-07-01
+P0105,Agua Costa Real 178,Bebidas,Agua,Costa Real,6.79,4.18,2018-04-30
+P0106,Iluminacion Andina 10,Hogar,Iluminacion,Andina,49.46,37.97,2018-11-11
+P0107,Azucar y sal Amauta 531,Abarrotes,Azucar y sal,Amauta,19.29,14.27,2024-05-25
+P0108,Licuadoras Limax 356,Electrohogar,Licuadoras,Limax,435.62,291.86,2018-09-12
+P0109,Detergentes Nortex 870,Limpieza,Detergentes,Nortex,7.39,5.76,2024-03-03
+P0110,Jugos Sureña 99,Bebidas,Jugos,Sureña,4.16,2.82,2018-09-04
+P0111,Cuidado dental Sol Peruano 797,Cuidado Personal,Cuidado dental,Sol Peruano,12.41,8.67,2018-11-10
+P0112,Textiles de hogar Wari 696,Hogar,Textiles de hogar,Wari,57.59,45.93,2021-03-22
+P0113,Cervezas Vital 546,Bebidas,Cervezas,Vital,2.68,1.99,2023-05-03
+P0114,Organizadores Vital 944,Hogar,Organizadores,Vital,66.09,44.31,2022-05-22
+P0115,Papel higienico Kallpa 977,Limpieza,Papel higienico,Kallpa,7.67,6.04,2018-07-06
+P0116,Microondas Selecta 149,Electrohogar,Microondas,Selecta,106.06,84.34,2022-11-24
+P0117,Menestras Inca Blanco 540,Abarrotes,Menestras,Inca Blanco,3.95,2.94,2020-02-07
+P0118,Cuidado dental Pacifico Home 428,Cuidado Personal,Cuidado dental,Pacifico Home,32.17,24.25,2018-08-06
+P0119,Organizadores Valle Norte 541,Hogar,Organizadores,Valle Norte,18.36,12.29,2024-05-25
+P0120,Cuidado dental Selecta 33,Cuidado Personal,Cuidado dental,Selecta,34.72,21.54,2020-11-15
+P0121,Iluminacion Sureña 602,Hogar,Iluminacion,Sureña,156.84,112.84,2020-04-15
+P0122,Cafe e infusiones Amauta 597,Bebidas,Cafe e infusiones,Amauta,7.35,5.72,2020-04-24
+P0123,Jabon Nortex 748,Cuidado Personal,Jabon,Nortex,12.57,8.76,2018-07-04
+P0124,Iluminacion Piurana 90,Hogar,Iluminacion,Piurana,86.94,68.4,2022-08-27
+P0125,Papel higienico Limax 633,Limpieza,Papel higienico,Limax,15.47,10.16,2021-06-24
+P0126,Jugos Amauta 551,Bebidas,Jugos,Amauta,2.32,1.47,2022-08-08
+P0127,Energizantes Amauta 29,Bebidas,Energizantes,Amauta,3.02,2.19,2019-03-28
+P0128,Detergentes Pacifico Home 214,Limpieza,Detergentes,Pacifico Home,5.38,4.16,2019-09-07
+P0129,Lejia Sureña 449,Limpieza,Lejia,Sureña,15.66,12.47,2018-07-28
+P0130,Cafe e infusiones Valle Norte 652,Bebidas,Cafe e infusiones,Valle Norte,2.89,2.18,2020-06-26
+P0131,Cafe e infusiones Nortex 67,Bebidas,Cafe e infusiones,Nortex,7.66,5.76,2021-05-07
+P0132,Cuidado facial Rimac Hogar 430,Cuidado Personal,Cuidado facial,Rimac Hogar,29.74,20.87,2023-11-22
+P0133,Menestras Kallpa 598,Abarrotes,Menestras,Kallpa,14.26,11.14,2024-01-30
+P0134,Azucar y sal MaxHogar 582,Abarrotes,Azucar y sal,MaxHogar,16.08,12.42,2021-12-15
+P0135,Fideos Trujillana 795,Abarrotes,Fideos,Trujillana,6.03,3.68,2019-05-22
+P0136,Televisores MaxHogar 607,Electrohogar,Televisores,MaxHogar,1005.1,693.05,2022-10-05
+P0137,Bolsas Valle Norte 288,Limpieza,Bolsas,Valle Norte,23.31,18.48,2023-02-18
+P0138,Bolsas Inca Blanco 80,Limpieza,Bolsas,Inca Blanco,15.34,11.9,2021-12-14
+P0139,Panaderia Rimac Hogar 921,Abarrotes,Panaderia,Rimac Hogar,17.2,12.75,2021-11-19
+P0140,Agua Sol Peruano 306,Bebidas,Agua,Sol Peruano,15.48,10.53,2019-06-26
+P0141,Licuadoras Amauta 223,Electrohogar,Licuadoras,Amauta,427.19,335.27,2022-08-12
+P0142,Papel higienico Limax 470,Limpieza,Papel higienico,Limax,5.38,4.11,2024-01-11
+P0143,Limpiadores de superficie MaxHogar 454,Limpieza,Limpiadores de superficie,MaxHogar,32.37,20.9,2024-01-15
+P0144,Iluminacion Vital 689,Hogar,Iluminacion,Vital,218.07,169.71,2021-06-01
+P0145,Bolsas Piurana 532,Limpieza,Bolsas,Piurana,8.01,6.39,2023-06-21
+P0146,Azucar y sal Inca Blanco 324,Abarrotes,Azucar y sal,Inca Blanco,29.37,23.22,2019-10-24
+P0147,Iluminacion Piurana 812,Hogar,Iluminacion,Piurana,121.9,87.08,2022-11-02
+P0148,Lejia Andina 712,Limpieza,Lejia,Andina,9.28,6.26,2018-07-13
+P0149,Menaje de cocina Kallpa 263,Hogar,Menaje de cocina,Kallpa,49.1,37.06,2022-03-18
+P0150,Cuidado dental Amauta 20,Cuidado Personal,Cuidado dental,Amauta,28.78,22.15,2020-11-09
+P0151,Ventiladores Rimac Hogar 920,Electrohogar,Ventiladores,Rimac Hogar,78.71,56.81,2020-08-31
+P0152,Ventiladores Rimac Hogar 205,Electrohogar,Ventiladores,Rimac Hogar,768.96,590.57,2022-12-19
+P0153,Ventiladores Frescor 723,Electrohogar,Ventiladores,Frescor,669.77,453.22,2023-10-02
+P0154,Panaderia Vital 181,Abarrotes,Panaderia,Vital,9.47,6.25,2019-08-18
+P0155,Textiles de hogar Trujillana 577,Hogar,Textiles de hogar,Trujillana,52.94,35.81,2022-05-18
+P0156,Panaderia Frescor 460,Abarrotes,Panaderia,Frescor,3.12,2.45,2018-03-17
+P0157,Fideos Vital 784,Abarrotes,Fideos,Vital,15.32,11.35,2020-10-31
+P0158,Conservas Selecta 357,Abarrotes,Conservas,Selecta,14.81,11.68,2024-06-19
+P0159,Conservas Limax 804,Abarrotes,Conservas,Limax,31.8,23.65,2018-07-14
+P0160,Jabon Amauta 360,Cuidado Personal,Jabon,Amauta,15.77,11.48,2022-01-22
+P0161,Licuadoras Inca Blanco 149,Electrohogar,Licuadoras,Inca Blanco,247.6,162.8,2024-03-17
+P0162,Microondas Frescor 310,Electrohogar,Microondas,Frescor,148.19,112.94,2020-05-31
+P0163,Energizantes Costa Real 89,Bebidas,Energizantes,Costa Real,9.67,6.81,2019-08-12
+P0164,Refrigeradoras Costa Real 964,Electrohogar,Refrigeradoras,Costa Real,353.85,273.41,2022-07-07
+P0165,Detergentes Trujillana 852,Limpieza,Detergentes,Trujillana,6.81,4.19,2024-03-10
+P0166,Conservas Limax 359,Abarrotes,Conservas,Limax,23.65,18.36,2022-11-26
+P0167,Panaderia Valle Norte 926,Abarrotes,Panaderia,Valle Norte,11.23,8.16,2021-08-15
+P0168,Organizadores Amauta 522,Hogar,Organizadores,Amauta,21.7,17.09,2018-05-01
+P0169,Cervezas Costa Real 928,Bebidas,Cervezas,Costa Real,13.11,9.45,2021-10-07
+P0170,Detergentes Inca Blanco 982,Limpieza,Detergentes,Inca Blanco,14.64,10.95,2021-08-24
+P0171,Bolsas Nortex 966,Limpieza,Bolsas,Nortex,17.44,12.93,2020-05-29
+P0172,Iluminacion Pacifico Home 190,Hogar,Iluminacion,Pacifico Home,25.3,19.2,2023-05-12
+P0173,Iluminacion Valle Norte 22,Hogar,Iluminacion,Valle Norte,51.14,31.31,2022-04-23
+P0174,Lejia Nortex 356,Limpieza,Lejia,Nortex,6.63,5.3,2022-10-29
+P0175,Aceites Pacifico Home 794,Abarrotes,Aceites,Pacifico Home,5.5,3.61,2019-05-10
+P0176,Licuadoras Piurana 248,Electrohogar,Licuadoras,Piurana,865.8,586.9,2019-03-15
+P0177,Microondas MaxHogar 740,Electrohogar,Microondas,MaxHogar,1067.29,832.96,2023-11-30
+P0178,Textiles de hogar Sol Peruano 301,Hogar,Textiles de hogar,Sol Peruano,148.44,118.71,2019-10-26
+P0179,Detergentes Kallpa 143,Limpieza,Detergentes,Kallpa,23.97,18.24,2019-01-27
+P0180,Cafe e infusiones Vital 660,Bebidas,Cafe e infusiones,Vital,3.63,2.71,2019-03-14
+P0181,Desodorantes Inca Blanco 51,Cuidado Personal,Desodorantes,Inca Blanco,18.29,12.25,2021-08-10
+P0182,Cuidado facial Selecta 330,Cuidado Personal,Cuidado facial,Selecta,10.15,8.02,2020-12-08
+P0183,Textiles de hogar Limax 205,Hogar,Textiles de hogar,Limax,11.96,7.32,2023-05-11
+P0184,Menaje de cocina Andina 754,Hogar,Menaje de cocina,Andina,80.59,58.18,2021-10-25
+P0185,Microondas Andina 64,Electrohogar,Microondas,Andina,115.45,85.31,2019-01-14
+P0186,Textiles de hogar Nortex 244,Hogar,Textiles de hogar,Nortex,35.14,26.94,2018-04-06
+P0187,Ventiladores Rimac Hogar 970,Electrohogar,Ventiladores,Rimac Hogar,259.04,171.06,2024-06-11
+P0188,Bolsas Pacifico Home 418,Limpieza,Bolsas,Pacifico Home,30.47,22.73,2020-03-23
+P0189,Microondas Valle Norte 634,Electrohogar,Microondas,Valle Norte,508.01,316.38,2019-09-16
+P0190,Jabon Trujillana 888,Cuidado Personal,Jabon,Trujillana,6.61,4.99,2018-12-19
+P0191,Licuadoras Vital 557,Electrohogar,Licuadoras,Vital,854.6,618.11,2020-12-01
+P0192,Desodorantes Sureña 20,Cuidado Personal,Desodorantes,Sureña,17.85,12.55,2018-02-03
+P0193,Desodorantes Amauta 220,Cuidado Personal,Desodorantes,Amauta,13.85,9.58,2019-01-09
+P0194,Televisores Selecta 886,Electrohogar,Televisores,Selecta,851.81,547.22,2019-06-27
+P0195,Agua MaxHogar 365,Bebidas,Agua,MaxHogar,12.29,8.72,2021-03-19
+P0196,Lejia Cusco Natural 890,Limpieza,Lejia,Cusco Natural,9.62,7.42,2022-11-10
+P0197,Energizantes Limax 990,Bebidas,Energizantes,Limax,11.34,8.28,2021-04-02
+P0198,Licuadoras Cusco Natural 525,Electrohogar,Licuadoras,Cusco Natural,1544.79,1052.5,2020-05-26
+P0199,Arroz Sureña 941,Abarrotes,Arroz,Sureña,3.67,2.87,2022-11-08
+P0200,Lejia Frescor 635,Limpieza,Lejia,Frescor,5.41,3.51,2023-02-19
+P0201,Jabon Cusco Natural 441,Cuidado Personal,Jabon,Cusco Natural,7.78,4.91,2019-11-10
+P0202,Decoracion Pacifico Home 734,Hogar,Decoracion,Pacifico Home,125.63,84.59,2021-02-28
+P0203,Papel higienico Frescor 904,Limpieza,Papel higienico,Frescor,15.76,11.6,2019-08-14
+P0204,Azucar y sal Sol Peruano 834,Abarrotes,Azucar y sal,Sol Peruano,12.09,8.32,2019-12-31
+P0205,Televisores Inca Blanco 236,Electrohogar,Televisores,Inca Blanco,1325.8,850.39,2021-05-19
+P0206,Ventiladores Nortex 662,Electrohogar,Ventiladores,Nortex,725.93,494.44,2020-04-19
+P0207,Cervezas Inca Blanco 962,Bebidas,Cervezas,Inca Blanco,11.38,6.86,2024-05-25
+P0208,Arroz Wari 996,Abarrotes,Arroz,Wari,7.15,4.52,2024-03-12
+P0209,Lejia Costa Real 458,Limpieza,Lejia,Costa Real,5.53,3.66,2021-12-02
+P0210,Desodorantes Rimac Hogar 778,Cuidado Personal,Desodorantes,Rimac Hogar,6.08,4.56,2024-04-19
+P0211,Textiles de hogar Kallpa 222,Hogar,Textiles de hogar,Kallpa,113.7,78.55,2023-11-07
+P0212,Conservas Andina 779,Abarrotes,Conservas,Andina,33.43,24.89,2021-05-07
+P0213,Detergentes Trujillana 909,Limpieza,Detergentes,Trujillana,9.49,6.32,2022-01-25
+P0214,Refrigeradoras MaxHogar 626,Electrohogar,Refrigeradoras,MaxHogar,64.06,45.49,2020-04-12
+P0215,Cuidado facial Trujillana 314,Cuidado Personal,Cuidado facial,Trujillana,9.68,7.08,2022-10-05
+P0216,Menaje de cocina Cusco Natural 13,Hogar,Menaje de cocina,Cusco Natural,60.62,37.84,2019-09-03
+P0217,Organizadores Trujillana 136,Hogar,Organizadores,Trujillana,206.25,162.83,2019-08-14
+P0218,Cuidado dental Sol Peruano 353,Cuidado Personal,Cuidado dental,Sol Peruano,38.09,28.93,2022-10-15
+P0219,Menaje de cocina Limax 610,Hogar,Menaje de cocina,Limax,138.87,89.76,2022-05-27
+P0220,Agua Rimac Hogar 678,Bebidas,Agua,Rimac Hogar,15.22,9.43,2022-07-25
+P0221,Azucar y sal Nortex 708,Abarrotes,Azucar y sal,Nortex,4.38,3.47,2022-06-13
+P0222,Arroz MaxHogar 408,Abarrotes,Arroz,MaxHogar,3.07,2.28,2019-12-24
+P0223,Aceites Limax 878,Abarrotes,Aceites,Limax,7.89,5.58,2020-07-27
+P0224,Desodorantes Andina 530,Cuidado Personal,Desodorantes,Andina,22.84,18.04,2020-08-11
+P0225,Cafe e infusiones Costa Real 229,Bebidas,Cafe e infusiones,Costa Real,7.94,5.15,2019-08-04
+P0226,Jugos Cusco Natural 744,Bebidas,Jugos,Cusco Natural,2.15,1.72,2022-07-22
+P0227,Lejia Piurana 604,Limpieza,Lejia,Piurana,4.54,3.33,2023-12-04
+P0228,Organizadores MaxHogar 446,Hogar,Organizadores,MaxHogar,15.15,9.54,2022-04-11
+P0229,Lejia Wari 928,Limpieza,Lejia,Wari,14.89,10.61,2022-10-17
+P0230,Planchas Selecta 844,Electrohogar,Planchas,Selecta,288.7,205.66,2018-07-04
+P0231,Iluminacion Costa Real 893,Hogar,Iluminacion,Costa Real,11.93,8.0,2019-07-19
+P0232,Textiles de hogar Pacifico Home 514,Hogar,Textiles de hogar,Pacifico Home,27.98,18.76,2022-04-27
+P0233,Desodorantes MaxHogar 148,Cuidado Personal,Desodorantes,MaxHogar,13.35,10.24,2020-12-07
+P0234,Menaje de cocina Piurana 529,Hogar,Menaje de cocina,Piurana,134.93,99.49,2023-06-08
+P0235,Textiles de hogar Pacifico Home 71,Hogar,Textiles de hogar,Pacifico Home,13.58,9.76,2023-12-20
+P0236,Conservas MaxHogar 819,Abarrotes,Conservas,MaxHogar,4.78,3.65,2020-04-24
+P0237,Licuadoras Frescor 370,Electrohogar,Licuadoras,Frescor,61.88,39.61,2018-01-18
+P0238,Fideos Frescor 165,Abarrotes,Fideos,Frescor,8.7,6.17,2018-05-13
+P0239,Arroz Trujillana 601,Abarrotes,Arroz,Trujillana,6.88,4.54,2022-01-21
+P0240,Arroz Limax 766,Abarrotes,Arroz,Limax,30.36,20.46,2020-06-11
+P0241,Jugos Limax 175,Bebidas,Jugos,Limax,4.43,3.39,2022-02-17
+P0242,Azucar y sal MaxHogar 31,Abarrotes,Azucar y sal,MaxHogar,3.43,2.43,2022-12-24
+P0243,Aceites Sol Peruano 875,Abarrotes,Aceites,Sol Peruano,19.52,14.21,2022-03-23
+P0244,Lejia Costa Real 640,Limpieza,Lejia,Costa Real,15.75,10.09,2023-09-18
+P0245,Refrigeradoras Limax 495,Electrohogar,Refrigeradoras,Limax,626.95,467.33,2024-02-11
+P0246,Detergentes Valle Norte 903,Limpieza,Detergentes,Valle Norte,10.74,7.53,2022-07-04
+P0247,Organizadores Sureña 56,Hogar,Organizadores,Sureña,194.48,124.67,2023-07-02
+P0248,Energizantes Sureña 628,Bebidas,Energizantes,Sureña,7.0,5.49,2022-04-22
+P0249,Microondas Trujillana 858,Electrohogar,Microondas,Trujillana,1516.26,1079.92,2022-03-06
+P0250,Ventiladores Frescor 635,Electrohogar,Ventiladores,Frescor,66.31,47.55,2022-06-22
+P0251,Ventiladores Costa Real 304,Electrohogar,Ventiladores,Costa Real,148.87,115.68,2019-09-19
+P0252,Iluminacion Costa Real 120,Hogar,Iluminacion,Costa Real,109.78,81.22,2021-01-01
+P0253,Lejia MaxHogar 324,Limpieza,Lejia,MaxHogar,20.87,14.41,2023-01-30
+P0254,Planchas Piurana 695,Electrohogar,Planchas,Piurana,1688.48,1243.92,2018-07-07
+P0255,Planchas Limax 588,Electrohogar,Planchas,Limax,65.3,45.1,2021-09-02
+P0256,Energizantes Valle Norte 347,Bebidas,Energizantes,Valle Norte,2.24,1.35,2019-02-08
+P0257,Refrigeradoras Frescor 327,Electrohogar,Refrigeradoras,Frescor,1454.6,901.33,2018-05-19
+P0258,Desodorantes Amauta 726,Cuidado Personal,Desodorantes,Amauta,20.17,15.52,2020-07-14
+P0259,Ventiladores Inca Blanco 211,Electrohogar,Ventiladores,Inca Blanco,868.66,614.05,2024-03-26
+P0260,Fideos Inca Blanco 130,Abarrotes,Fideos,Inca Blanco,4.18,3.13,2020-08-16
+P0261,Fideos Andina 609,Abarrotes,Fideos,Andina,7.5,5.98,2021-03-06
+P0262,Microondas Cusco Natural 358,Electrohogar,Microondas,Cusco Natural,100.63,67.84,2020-06-18
+P0263,Televisores Valle Norte 82,Electrohogar,Televisores,Valle Norte,96.58,73.29,2022-09-19
+P0264,Bolsas Inca Blanco 940,Limpieza,Bolsas,Inca Blanco,5.09,3.14,2020-09-21
+P0265,Agua Cusco Natural 968,Bebidas,Agua,Cusco Natural,10.71,6.9,2018-02-17
+P0266,Refrigeradoras Andina 822,Electrohogar,Refrigeradoras,Andina,755.01,500.22,2022-06-01
+P0267,Refrigeradoras Amauta 988,Electrohogar,Refrigeradoras,Amauta,396.27,243.3,2019-09-06
+P0268,Azucar y sal Inca Blanco 939,Abarrotes,Azucar y sal,Inca Blanco,3.78,2.49,2023-10-03
+P0269,Lejia Selecta 329,Limpieza,Lejia,Selecta,27.11,20.39,2021-12-18
+P0270,Jugos Amauta 151,Bebidas,Jugos,Amauta,8.23,6.13,2018-11-14
+P0271,Bolsas MaxHogar 97,Limpieza,Bolsas,MaxHogar,15.46,12.2,2020-09-07
+P0272,Jugos Limax 564,Bebidas,Jugos,Limax,5.37,3.47,2021-05-03
+P0273,Menestras MaxHogar 445,Abarrotes,Menestras,MaxHogar,12.66,9.55,2018-12-24
+P0274,Refrigeradoras Selecta 895,Electrohogar,Refrigeradoras,Selecta,313.49,245.43,2023-10-28
+P0275,Decoracion Andina 110,Hogar,Decoracion,Andina,32.34,24.23,2019-07-07
+P0276,Cuidado dental Valle Norte 350,Cuidado Personal,Cuidado dental,Valle Norte,33.17,24.19,2018-11-01
+P0277,Energizantes Selecta 514,Bebidas,Energizantes,Selecta,4.93,3.47,2022-03-12
+P0278,Cuidado dental Frescor 148,Cuidado Personal,Cuidado dental,Frescor,22.5,14.73,2020-09-16
+P0279,Shampoo Frescor 355,Cuidado Personal,Shampoo,Frescor,29.47,20.06,2018-11-14
+P0280,Microondas Sol Peruano 28,Electrohogar,Microondas,Sol Peruano,499.35,306.95,2018-11-14
+P0281,Limpiadores de superficie Kallpa 915,Limpieza,Limpiadores de superficie,Kallpa,20.61,13.27,2019-08-20
+P0282,Energizantes Andina 28,Bebidas,Energizantes,Andina,10.11,7.98,2022-03-05
+P0283,Bolsas Vital 380,Limpieza,Bolsas,Vital,24.11,16.83,2020-06-16
+P0284,Refrigeradoras Inca Blanco 66,Electrohogar,Refrigeradoras,Inca Blanco,659.34,426.43,2020-03-07
+P0285,Jabon Trujillana 438,Cuidado Personal,Jabon,Trujillana,8.03,5.79,2021-11-18
+P0286,Jabon Wari 809,Cuidado Personal,Jabon,Wari,27.25,19.97,2024-03-23
+P0287,Cafe e infusiones Pacifico Home 945,Bebidas,Cafe e infusiones,Pacifico Home,20.52,16.03,2022-05-07
+P0288,Iluminacion Frescor 672,Hogar,Iluminacion,Frescor,31.51,19.74,2024-01-17
+P0289,Jabon Valle Norte 864,Cuidado Personal,Jabon,Valle Norte,44.56,32.27,2023-06-18
+P0290,Gaseosas Piurana 192,Bebidas,Gaseosas,Piurana,16.9,10.72,2023-09-13
+P0291,Desodorantes MaxHogar 922,Cuidado Personal,Desodorantes,MaxHogar,10.69,8.36,2023-06-09
+P0292,Cafe e infusiones Trujillana 32,Bebidas,Cafe e infusiones,Trujillana,21.0,14.92,2018-12-24
+P0293,Cafe e infusiones Piurana 587,Bebidas,Cafe e infusiones,Piurana,4.01,3.14,2020-08-20
+P0294,Licuadoras Vital 477,Electrohogar,Licuadoras,Vital,541.99,348.91,2021-11-20
+P0295,Ventiladores Pacifico Home 507,Electrohogar,Ventiladores,Pacifico Home,63.0,41.04,2020-07-17
+P0296,Energizantes Sureña 214,Bebidas,Energizantes,Sureña,5.21,3.59,2022-06-16
+P0297,Ventiladores Trujillana 453,Electrohogar,Ventiladores,Trujillana,98.65,63.85,2023-08-24
+P0298,Jugos Costa Real 21,Bebidas,Jugos,Costa Real,3.83,2.61,2019-07-02
+P0299,Textiles de hogar Vital 783,Hogar,Textiles de hogar,Vital,32.14,21.74,2020-08-14
+P0300,Microondas Limax 30,Electrohogar,Microondas,Limax,686.03,491.37,2018-05-31
+P0301,Refrigeradoras Sureña 626,Electrohogar,Refrigeradoras,Sureña,1469.41,934.87,2023-05-08
+P0302,Menestras Vital 128,Abarrotes,Menestras,Vital,6.51,5.16,2022-11-30
+P0303,Textiles de hogar Amauta 626,Hogar,Textiles de hogar,Amauta,30.0,22.92,2018-03-03
+P0304,Cuidado dental Trujillana 476,Cuidado Personal,Cuidado dental,Trujillana,9.38,5.67,2020-09-07
+P0305,Televisores Kallpa 911,Electrohogar,Televisores,Kallpa,171.04,118.32,2024-03-31
+P0306,Menaje de cocina Inca Blanco 157,Hogar,Menaje de cocina,Inca Blanco,89.58,69.57,2022-02-04
+P0307,Menaje de cocina Piurana 651,Hogar,Menaje de cocina,Piurana,11.43,7.5,2022-06-19
+P0308,Organizadores Trujillana 862,Hogar,Organizadores,Trujillana,19.99,14.76,2021-09-23
+P0309,Iluminacion Vital 671,Hogar,Iluminacion,Vital,142.55,106.33,2019-11-05
+P0310,Panaderia Nortex 12,Abarrotes,Panaderia,Nortex,3.49,2.29,2019-10-29
+P0311,Fideos Piurana 329,Abarrotes,Fideos,Piurana,5.31,4.1,2021-05-05
+P0312,Aceites Nortex 17,Abarrotes,Aceites,Nortex,14.6,9.32,2020-12-21
+P0313,Agua Vital 861,Bebidas,Agua,Vital,2.27,1.39,2019-10-10
+P0314,Lejia Trujillana 597,Limpieza,Lejia,Trujillana,29.88,20.96,2024-04-08
+P0315,Azucar y sal Selecta 951,Abarrotes,Azucar y sal,Selecta,24.52,19.1,2020-02-13
+P0316,Arroz Selecta 918,Abarrotes,Arroz,Selecta,15.09,9.48,2018-07-18
+P0317,Arroz Rimac Hogar 489,Abarrotes,Arroz,Rimac Hogar,3.54,2.42,2023-10-20
+P0318,Aceites Andina 445,Abarrotes,Aceites,Andina,3.92,2.42,2023-11-08
+P0319,Azucar y sal Amauta 638,Abarrotes,Azucar y sal,Amauta,33.33,23.72,2019-01-17
+P0320,Textiles de hogar Piurana 834,Hogar,Textiles de hogar,Piurana,42.21,31.23,2020-10-21
+P0321,Planchas Andina 56,Electrohogar,Planchas,Andina,1389.37,935.6,2019-08-09
+P0322,Decoracion Rimac Hogar 818,Hogar,Decoracion,Rimac Hogar,12.41,8.83,2018-07-29
+P0323,Organizadores Trujillana 392,Hogar,Organizadores,Trujillana,131.12,81.39,2020-02-29
+P0324,Menestras Costa Real 776,Abarrotes,Menestras,Costa Real,30.35,19.88,2021-10-29
+P0325,Lejia Frescor 216,Limpieza,Lejia,Frescor,5.77,4.15,2019-07-15
+P0326,Detergentes Frescor 277,Limpieza,Detergentes,Frescor,27.01,20.63,2018-06-06
+P0327,Agua Amauta 4,Bebidas,Agua,Amauta,17.06,11.11,2021-12-21
+P0328,Bolsas Wari 897,Limpieza,Bolsas,Wari,4.9,3.88,2021-09-06
+P0329,Fideos Rimac Hogar 775,Abarrotes,Fideos,Rimac Hogar,9.98,7.68,2024-02-24
+P0330,Planchas Andina 637,Electrohogar,Planchas,Andina,316.92,192.45,2020-07-07
+P0331,Jabon Sureña 798,Cuidado Personal,Jabon,Sureña,8.27,5.93,2021-09-06
+P0332,Lejia MaxHogar 582,Limpieza,Lejia,MaxHogar,25.96,15.92,2023-03-09
+P0333,Licuadoras Piurana 659,Electrohogar,Licuadoras,Piurana,75.24,46.36,2024-02-29
+P0334,Textiles de hogar Selecta 717,Hogar,Textiles de hogar,Selecta,43.43,27.87,2019-06-17
+P0335,Jugos Wari 351,Bebidas,Jugos,Wari,2.38,1.58,2020-10-25
+P0336,Fideos Sureña 754,Abarrotes,Fideos,Sureña,25.28,18.6,2022-12-13
+P0337,Azucar y sal Frescor 315,Abarrotes,Azucar y sal,Frescor,15.39,11.95,2019-06-06
+P0338,Decoracion Rimac Hogar 949,Hogar,Decoracion,Rimac Hogar,170.97,128.05,2019-05-24
+P0339,Fideos Selecta 282,Abarrotes,Fideos,Selecta,5.01,3.5,2021-03-01
+P0340,Shampoo Andina 778,Cuidado Personal,Shampoo,Andina,9.88,6.69,2019-06-25
+P0341,Conservas Nortex 225,Abarrotes,Conservas,Nortex,12.79,9.79,2023-10-23
+P0342,Textiles de hogar Valle Norte 933,Hogar,Textiles de hogar,Valle Norte,20.78,13.6,2020-03-20
+P0343,Jabon Wari 703,Cuidado Personal,Jabon,Wari,14.09,8.6,2019-01-27
+P0344,Jugos Wari 793,Bebidas,Jugos,Wari,14.06,8.8,2018-08-13
+P0345,Cervezas MaxHogar 85,Bebidas,Cervezas,MaxHogar,11.8,7.5,2022-04-20
+P0346,Shampoo Sol Peruano 596,Cuidado Personal,Shampoo,Sol Peruano,5.93,4.39,2018-01-08
+P0347,Organizadores Andina 902,Hogar,Organizadores,Andina,19.65,13.69,2022-02-25
+P0348,Televisores Sol Peruano 436,Electrohogar,Televisores,Sol Peruano,458.48,277.82,2020-02-02
+P0349,Planchas Frescor 669,Electrohogar,Planchas,Frescor,502.47,370.14,2023-12-26
+P0350,Organizadores Vital 98,Hogar,Organizadores,Vital,13.98,10.17,2020-03-17
+P0351,Jabon Selecta 825,Cuidado Personal,Jabon,Selecta,15.98,11.0,2022-04-22
+P0352,Agua Trujillana 670,Bebidas,Agua,Trujillana,17.89,13.12,2022-09-08
+P0353,Shampoo Sol Peruano 316,Cuidado Personal,Shampoo,Sol Peruano,14.01,10.6,2019-03-04
+P0354,Aceites Wari 819,Abarrotes,Aceites,Wari,31.08,19.54,2022-10-05
+P0355,Cuidado dental Piurana 875,Cuidado Personal,Cuidado dental,Piurana,5.81,4.34,2021-01-27
+P0356,Decoracion Trujillana 828,Hogar,Decoracion,Trujillana,32.26,25.6,2023-03-20
+P0357,Desodorantes Piurana 268,Cuidado Personal,Desodorantes,Piurana,26.17,20.45,2021-09-14
+P0358,Jabon Kallpa 250,Cuidado Personal,Jabon,Kallpa,43.09,26.36,2020-02-03
+P0359,Cuidado facial Costa Real 618,Cuidado Personal,Cuidado facial,Costa Real,6.2,4.42,2019-08-16
+P0360,Menaje de cocina Vital 309,Hogar,Menaje de cocina,Vital,27.04,17.57,2019-09-30
+P0361,Menestras Costa Real 194,Abarrotes,Menestras,Costa Real,6.32,4.79,2022-06-04
+P0362,Desodorantes Wari 932,Cuidado Personal,Desodorantes,Wari,31.4,21.58,2018-12-31
+P0363,Desodorantes Nortex 54,Cuidado Personal,Desodorantes,Nortex,5.25,3.97,2021-10-18
+P0364,Cervezas Cusco Natural 321,Bebidas,Cervezas,Cusco Natural,6.16,4.92,2018-07-28
+P0365,Iluminacion Vital 694,Hogar,Iluminacion,Vital,247.66,157.78,2021-02-01
+P0366,Gaseosas Costa Real 255,Bebidas,Gaseosas,Costa Real,24.36,16.04,2019-08-12
+P0367,Cervezas Cusco Natural 883,Bebidas,Cervezas,Cusco Natural,7.93,4.78,2019-06-29
+P0368,Jugos Cusco Natural 291,Bebidas,Jugos,Cusco Natural,6.68,4.29,2020-04-10
+P0369,Limpiadores de superficie Frescor 12,Limpieza,Limpiadores de superficie,Frescor,16.8,12.94,2020-09-29
+P0370,Cafe e infusiones Limax 30,Bebidas,Cafe e infusiones,Limax,5.46,3.56,2021-09-25
+P0371,Jugos Kallpa 305,Bebidas,Jugos,Kallpa,15.6,10.72,2022-06-12
+P0372,Textiles de hogar Inca Blanco 263,Hogar,Textiles de hogar,Inca Blanco,21.49,15.2,2023-04-06
+P0373,Televisores Sol Peruano 237,Electrohogar,Televisores,Sol Peruano,116.9,77.91,2020-09-13
+P0374,Papel higienico Valle Norte 877,Limpieza,Papel higienico,Valle Norte,6.0,4.49,2019-12-30
+P0375,Cuidado facial Kallpa 533,Cuidado Personal,Cuidado facial,Kallpa,5.38,4.0,2018-03-31
+P0376,Cafe e infusiones Rimac Hogar 346,Bebidas,Cafe e infusiones,Rimac Hogar,6.02,3.66,2023-11-22
+P0377,Planchas Sureña 604,Electrohogar,Planchas,Sureña,143.2,102.74,2020-03-26
+P0378,Iluminacion Valle Norte 430,Hogar,Iluminacion,Valle Norte,38.77,27.34,2018-09-05
+P0379,Limpiadores de superficie Selecta 998,Limpieza,Limpiadores de superficie,Selecta,25.65,18.05,2020-07-25
+P0380,Agua Costa Real 492,Bebidas,Agua,Costa Real,18.31,13.69,2022-12-30
+P0381,Cuidado dental Inca Blanco 48,Cuidado Personal,Cuidado dental,Inca Blanco,17.57,12.32,2018-06-11
+P0382,Conservas Kallpa 508,Abarrotes,Conservas,Kallpa,14.77,9.26,2019-10-05
+P0383,Lejia Piurana 739,Limpieza,Lejia,Piurana,9.73,7.09,2019-07-09
+P0384,Bolsas Rimac Hogar 85,Limpieza,Bolsas,Rimac Hogar,5.32,3.65,2024-06-27
+P0385,Bolsas Pacifico Home 692,Limpieza,Bolsas,Pacifico Home,25.66,15.72,2024-02-17
+P0386,Licuadoras Limax 390,Electrohogar,Licuadoras,Limax,566.01,443.12,2018-05-30
+P0387,Menaje de cocina Vital 920,Hogar,Menaje de cocina,Vital,37.49,29.58,2019-04-22
+P0388,Papel higienico Rimac Hogar 388,Limpieza,Papel higienico,Rimac Hogar,25.62,17.75,2019-02-27
+P0389,Cuidado dental Trujillana 207,Cuidado Personal,Cuidado dental,Trujillana,36.47,28.1,2022-02-13
+P0390,Fideos Sol Peruano 58,Abarrotes,Fideos,Sol Peruano,22.06,13.34,2018-01-08
+P0391,Shampoo Sol Peruano 930,Cuidado Personal,Shampoo,Sol Peruano,14.4,9.14,2022-11-19
+P0392,Energizantes Costa Real 688,Bebidas,Energizantes,Costa Real,8.51,5.45,2022-01-10
+P0393,Refrigeradoras Frescor 618,Electrohogar,Refrigeradoras,Frescor,133.67,84.59,2023-05-11
+P0394,Gaseosas Nortex 59,Bebidas,Gaseosas,Nortex,3.42,2.06,2023-02-20
+P0395,Cuidado dental Piurana 726,Cuidado Personal,Cuidado dental,Piurana,11.94,7.71,2021-03-16
+P0396,Desodorantes Rimac Hogar 571,Cuidado Personal,Desodorantes,Rimac Hogar,9.27,7.14,2024-04-23
+P0397,Bolsas Rimac Hogar 896,Limpieza,Bolsas,Rimac Hogar,15.69,10.2,2020-06-07
+P0398,Organizadores Trujillana 533,Hogar,Organizadores,Trujillana,15.92,12.68,2024-02-11
+P0399,Aceites Piurana 448,Abarrotes,Aceites,Piurana,8.21,5.75,2023-08-15
+P0400,Energizantes Valle Norte 211,Bebidas,Energizantes,Valle Norte,21.45,15.75,2024-05-28
+P0401,Bolsas Vital 325,Limpieza,Bolsas,Vital,25.3,16.41,2020-12-21
+P0402,Menaje de cocina Kallpa 104,Hogar,Menaje de cocina,Kallpa,38.2,28.2,2019-12-25
+P0403,Limpiadores de superficie Valle Norte 349,Limpieza,Limpiadores de superficie,Valle Norte,4.23,3.04,2022-12-16
+P0404,Cuidado facial Sol Peruano 575,Cuidado Personal,Cuidado facial,Sol Peruano,11.29,6.86,2020-01-03
+P0405,Televisores Costa Real 490,Electrohogar,Televisores,Costa Real,112.59,70.54,2019-04-26
+P0406,Limpiadores de superficie Nortex 973,Limpieza,Limpiadores de superficie,Nortex,11.54,8.29,2020-04-08
+P0407,Aceites Cusco Natural 329,Abarrotes,Aceites,Cusco Natural,13.86,8.41,2022-06-17
+P0408,Planchas MaxHogar 256,Electrohogar,Planchas,MaxHogar,208.17,126.14,2022-07-27
+P0409,Desodorantes Sol Peruano 752,Cuidado Personal,Desodorantes,Sol Peruano,6.8,4.86,2022-05-09
+P0410,Detergentes Sureña 946,Limpieza,Detergentes,Sureña,17.26,12.1,2023-03-25
+P0411,Jabon Valle Norte 408,Cuidado Personal,Jabon,Valle Norte,8.85,6.17,2021-04-14
+P0412,Detergentes Sureña 953,Limpieza,Detergentes,Sureña,36.39,27.82,2023-07-09
+P0413,Decoracion Valle Norte 378,Hogar,Decoracion,Valle Norte,102.97,82.13,2019-10-05
+P0414,Planchas Sureña 481,Electrohogar,Planchas,Sureña,913.84,631.41,2018-01-30
+P0415,Menestras Frescor 904,Abarrotes,Menestras,Frescor,9.93,7.44,2021-11-27
+P0416,Lejia Andina 793,Limpieza,Lejia,Andina,16.12,10.58,2018-11-26
+P0417,Desodorantes Piurana 611,Cuidado Personal,Desodorantes,Piurana,8.61,5.25,2020-03-13
+P0418,Refrigeradoras Piurana 675,Electrohogar,Refrigeradoras,Piurana,92.7,70.13,2020-07-03
+P0419,Bolsas Limax 856,Limpieza,Bolsas,Limax,5.74,4.0,2018-10-30
+P0420,Microondas Frescor 102,Electrohogar,Microondas,Frescor,572.93,418.77,2024-03-18
+P0421,Licuadoras Pacifico Home 615,Electrohogar,Licuadoras,Pacifico Home,669.61,453.33,2021-03-02
+P0422,Desodorantes Rimac Hogar 269,Cuidado Personal,Desodorantes,Rimac Hogar,5.83,3.95,2018-01-05
+P0423,Televisores Limax 892,Electrohogar,Televisores,Limax,110.15,85.69,2021-11-06
+P0424,Agua Andina 635,Bebidas,Agua,Andina,4.48,3.08,2023-06-16
+P0425,Azucar y sal Rimac Hogar 84,Abarrotes,Azucar y sal,Rimac Hogar,5.04,3.75,2022-07-24
+P0426,Bolsas Cusco Natural 324,Limpieza,Bolsas,Cusco Natural,5.56,3.98,2020-01-29
+P0427,Licuadoras Nortex 373,Electrohogar,Licuadoras,Nortex,449.34,321.61,2018-02-06
+P0428,Agua Nortex 363,Bebidas,Agua,Nortex,4.58,3.18,2023-02-13
+P0429,Desodorantes Piurana 444,Cuidado Personal,Desodorantes,Piurana,7.41,4.78,2020-09-22
+P0430,Refrigeradoras Inca Blanco 476,Electrohogar,Refrigeradoras,Inca Blanco,644.94,405.99,2018-12-02
+P0431,Cafe e infusiones Rimac Hogar 654,Bebidas,Cafe e infusiones,Rimac Hogar,2.89,2.26,2023-06-28
+P0432,Menaje de cocina Pacifico Home 989,Hogar,Menaje de cocina,Pacifico Home,32.87,21.18,2020-03-15
+P0433,Desodorantes Sol Peruano 204,Cuidado Personal,Desodorantes,Sol Peruano,26.18,20.8,2021-02-21
+P0434,Licuadoras Sureña 883,Electrohogar,Licuadoras,Sureña,141.96,88.54,2021-10-23
+P0435,Jabon MaxHogar 303,Cuidado Personal,Jabon,MaxHogar,5.33,3.88,2019-03-29
+P0436,Televisores Pacifico Home 127,Electrohogar,Televisores,Pacifico Home,86.28,63.87,2024-01-13
+P0437,Iluminacion Kallpa 966,Hogar,Iluminacion,Kallpa,166.22,123.29,2018-05-07
+P0438,Energizantes Frescor 696,Bebidas,Energizantes,Frescor,3.48,2.36,2024-02-09
+P0439,Cafe e infusiones Rimac Hogar 310,Bebidas,Cafe e infusiones,Rimac Hogar,21.41,13.54,2020-07-03
+P0440,Jugos Sureña 92,Bebidas,Jugos,Sureña,11.39,7.0,2021-08-07
+P0441,Microondas Trujillana 308,Electrohogar,Microondas,Trujillana,714.56,520.27,2023-06-17
+P0442,Bolsas Wari 931,Limpieza,Bolsas,Wari,27.3,19.92,2024-05-19
+P0443,Shampoo Wari 964,Cuidado Personal,Shampoo,Wari,40.3,31.58,2021-11-24
+P0444,Limpiadores de superficie Limax 312,Limpieza,Limpiadores de superficie,Limax,12.24,9.35,2019-09-18
+P0445,Conservas Cusco Natural 162,Abarrotes,Conservas,Cusco Natural,6.16,4.22,2021-10-12
+P0446,Menestras Inca Blanco 496,Abarrotes,Menestras,Inca Blanco,17.38,12.9,2023-06-09
+P0447,Panaderia Valle Norte 257,Abarrotes,Panaderia,Valle Norte,18.65,11.77,2018-12-28
+P0448,Televisores Andina 121,Electrohogar,Televisores,Andina,68.05,52.21,2022-09-12
+P0449,Aceites Limax 748,Abarrotes,Aceites,Limax,6.47,4.6,2020-03-12
+P0450,Microondas Valle Norte 914,Electrohogar,Microondas,Valle Norte,206.38,138.4,2022-05-16
+P0451,Lejia Vital 618,Limpieza,Lejia,Vital,22.72,14.68,2021-02-03
+P0452,Lejia Andina 410,Limpieza,Lejia,Andina,13.78,9.66,2022-06-16
+P0453,Decoracion Selecta 863,Hogar,Decoracion,Selecta,151.88,94.67,2019-03-15
+P0454,Shampoo Piurana 566,Cuidado Personal,Shampoo,Piurana,13.83,9.06,2018-12-23
+P0455,Desodorantes Limax 17,Cuidado Personal,Desodorantes,Limax,15.88,12.68,2020-05-04
+P0456,Ventiladores Valle Norte 432,Electrohogar,Ventiladores,Valle Norte,1075.69,786.7,2023-01-30
+P0457,Jabon Valle Norte 941,Cuidado Personal,Jabon,Valle Norte,22.2,14.36,2019-08-09
+P0458,Papel higienico Valle Norte 750,Limpieza,Papel higienico,Valle Norte,4.09,2.51,2018-12-29
+P0459,Cafe e infusiones Trujillana 609,Bebidas,Cafe e infusiones,Trujillana,6.15,4.33,2023-08-25
+P0460,Textiles de hogar Kallpa 88,Hogar,Textiles de hogar,Kallpa,36.4,23.13,2018-12-18
+P0461,Licuadoras Trujillana 553,Electrohogar,Licuadoras,Trujillana,415.72,293.27,2023-09-02
+P0462,Ventiladores Costa Real 184,Electrohogar,Ventiladores,Costa Real,427.75,337.47,2021-12-09
+P0463,Bolsas Cusco Natural 507,Limpieza,Bolsas,Cusco Natural,5.15,4.1,2023-05-26
+P0464,Bolsas Valle Norte 898,Limpieza,Bolsas,Valle Norte,14.94,9.32,2020-06-02
+P0465,Ventiladores Sol Peruano 8,Electrohogar,Ventiladores,Sol Peruano,1225.26,794.34,2021-05-27
+P0466,Desodorantes Piurana 127,Cuidado Personal,Desodorantes,Piurana,12.22,9.55,2023-01-23
+P0467,Bolsas Nortex 588,Limpieza,Bolsas,Nortex,25.17,15.56,2018-04-29
+P0468,Iluminacion Sol Peruano 262,Hogar,Iluminacion,Sol Peruano,11.73,7.9,2020-03-12
+P0469,Refrigeradoras Valle Norte 288,Electrohogar,Refrigeradoras,Valle Norte,193.27,148.16,2023-08-28
+P0470,Refrigeradoras Nortex 831,Electrohogar,Refrigeradoras,Nortex,1165.65,702.88,2022-09-16
+P0471,Menaje de cocina Frescor 171,Hogar,Menaje de cocina,Frescor,220.8,176.08,2024-02-05
+P0472,Desodorantes Rimac Hogar 235,Cuidado Personal,Desodorantes,Rimac Hogar,34.02,23.23,2021-07-30
+P0473,Menaje de cocina Cusco Natural 517,Hogar,Menaje de cocina,Cusco Natural,15.42,10.24,2021-06-23
+P0474,Cervezas Trujillana 938,Bebidas,Cervezas,Trujillana,10.32,7.92,2023-10-13
+P0475,Arroz MaxHogar 988,Abarrotes,Arroz,MaxHogar,24.3,16.29,2018-05-24
+P0476,Desodorantes Sureña 98,Cuidado Personal,Desodorantes,Sureña,7.97,5.29,2021-04-25
+P0477,Licuadoras Limax 988,Electrohogar,Licuadoras,Limax,1301.11,881.8,2018-06-07
+P0478,Licuadoras Amauta 139,Electrohogar,Licuadoras,Amauta,137.0,97.2,2018-11-17
+P0479,Organizadores Trujillana 841,Hogar,Organizadores,Trujillana,11.47,7.07,2019-05-22
+P0480,Gaseosas Valle Norte 210,Bebidas,Gaseosas,Valle Norte,2.52,1.89,2019-07-28
+P0481,Energizantes Selecta 291,Bebidas,Energizantes,Selecta,6.15,4.6,2021-01-19
+P0482,Menaje de cocina Nortex 760,Hogar,Menaje de cocina,Nortex,30.63,22.41,2019-08-11
+P0483,Jugos Selecta 149,Bebidas,Jugos,Selecta,4.1,2.92,2018-02-15
+P0484,Cuidado dental Vital 69,Cuidado Personal,Cuidado dental,Vital,9.41,7.05,2022-02-03
+P0485,Papel higienico Nortex 963,Limpieza,Papel higienico,Nortex,11.82,8.05,2019-10-24
+P0486,Iluminacion Andina 452,Hogar,Iluminacion,Andina,107.1,82.27,2023-10-13
+P0487,Licuadoras Selecta 612,Electrohogar,Licuadoras,Selecta,238.16,146.19,2018-10-10
+P0488,Ventiladores Rimac Hogar 130,Electrohogar,Ventiladores,Rimac Hogar,424.45,285.66,2019-12-11
+P0489,Iluminacion Rimac Hogar 826,Hogar,Iluminacion,Rimac Hogar,16.06,11.27,2022-09-16
+P0490,Panaderia Costa Real 249,Abarrotes,Panaderia,Costa Real,4.09,3.1,2023-02-06
+P0491,Fideos Kallpa 180,Abarrotes,Fideos,Kallpa,3.19,1.96,2018-06-01
+P0492,Textiles de hogar Sol Peruano 937,Hogar,Textiles de hogar,Sol Peruano,14.68,11.53,2024-01-05
+P0493,Agua Pacifico Home 331,Bebidas,Agua,Pacifico Home,3.58,2.56,2024-06-12
+P0494,Gaseosas Wari 102,Bebidas,Gaseosas,Wari,20.9,12.79,2019-03-25
+P0495,Gaseosas Nortex 37,Bebidas,Gaseosas,Nortex,2.57,2.02,2021-06-26
+P0496,Textiles de hogar Frescor 883,Hogar,Textiles de hogar,Frescor,30.19,24.0,2023-12-28
+P0497,Lejia Selecta 586,Limpieza,Lejia,Selecta,17.22,10.94,2021-08-20
+P0498,Ventiladores Cusco Natural 613,Electrohogar,Ventiladores,Cusco Natural,178.81,133.7,2020-12-08
+P0499,Licuadoras Sol Peruano 420,Electrohogar,Licuadoras,Sol Peruano,89.36,60.94,2019-05-12
+P0500,Agua Sureña 177,Bebidas,Agua,Sureña,2.88,1.79,2022-11-06
+P0501,Refrigeradoras Wari 258,Electrohogar,Refrigeradoras,Wari,245.41,191.39,2024-05-03
+P0502,Papel higienico Cusco Natural 939,Limpieza,Papel higienico,Cusco Natural,21.02,15.13,2024-06-04
+P0503,Shampoo Sol Peruano 108,Cuidado Personal,Shampoo,Sol Peruano,43.69,31.16,2021-11-19
+P0504,Limpiadores de superficie Vital 920,Limpieza,Limpiadores de superficie,Vital,32.5,25.24,2018-03-10
+P0505,Limpiadores de superficie Inca Blanco 831,Limpieza,Limpiadores de superficie,Inca Blanco,10.57,7.8,2018-05-06
+P0506,Refrigeradoras Piurana 241,Electrohogar,Refrigeradoras,Piurana,155.98,116.0,2024-02-15
+P0507,Limpiadores de superficie Wari 309,Limpieza,Limpiadores de superficie,Wari,17.54,11.38,2020-06-19
+P0508,Bolsas Kallpa 235,Limpieza,Bolsas,Kallpa,27.55,20.64,2023-07-27
+P0509,Detergentes Nortex 182,Limpieza,Detergentes,Nortex,32.75,23.57,2020-07-03
+P0510,Decoracion Kallpa 850,Hogar,Decoracion,Kallpa,19.22,14.01,2019-05-06
+P0511,Jugos Nortex 411,Bebidas,Jugos,Nortex,13.49,9.56,2018-05-04
+P0512,Cuidado dental Nortex 673,Cuidado Personal,Cuidado dental,Nortex,40.3,32.22,2021-04-03
+P0513,Cervezas Pacifico Home 8,Bebidas,Cervezas,Pacifico Home,13.74,10.17,2024-02-02
+P0514,Panaderia Costa Real 494,Abarrotes,Panaderia,Costa Real,3.45,2.37,2021-09-09
+P0515,Shampoo Costa Real 949,Cuidado Personal,Shampoo,Costa Real,5.62,3.55,2019-04-25
+P0516,Licuadoras Piurana 179,Electrohogar,Licuadoras,Piurana,1078.15,842.56,2024-05-22
+P0517,Bolsas Kallpa 574,Limpieza,Bolsas,Kallpa,4.14,2.88,2023-11-20
+P0518,Gaseosas Sureña 468,Bebidas,Gaseosas,Sureña,9.58,5.83,2022-02-03
+P0519,Iluminacion Vital 416,Hogar,Iluminacion,Vital,82.5,49.65,2020-08-17
+P0520,Papel higienico Costa Real 467,Limpieza,Papel higienico,Costa Real,7.18,4.34,2021-03-12
+P0521,Conservas Sol Peruano 731,Abarrotes,Conservas,Sol Peruano,33.65,26.26,2021-01-26
+P0522,Televisores Limax 998,Electrohogar,Televisores,Limax,435.37,262.77,2022-12-21
+P0523,Organizadores Cusco Natural 932,Hogar,Organizadores,Cusco Natural,18.22,14.33,2019-08-02
+P0524,Fideos Sureña 197,Abarrotes,Fideos,Sureña,14.2,9.44,2021-06-17
+P0525,Aceites Sureña 181,Abarrotes,Aceites,Sureña,24.63,18.73,2023-06-16
+P0526,Gaseosas Sol Peruano 418,Bebidas,Gaseosas,Sol Peruano,13.83,9.56,2022-07-21
+P0527,Refrigeradoras Trujillana 836,Electrohogar,Refrigeradoras,Trujillana,458.02,346.99,2022-04-07
+P0528,Agua MaxHogar 645,Bebidas,Agua,MaxHogar,3.75,2.57,2021-12-15
+P0529,Jugos Vital 826,Bebidas,Jugos,Vital,8.97,7.09,2021-06-01
+P0530,Cafe e infusiones Trujillana 67,Bebidas,Cafe e infusiones,Trujillana,2.95,1.87,2021-05-08
+P0531,Refrigeradoras Nortex 472,Electrohogar,Refrigeradoras,Nortex,400.22,316.24,2023-05-11
+P0532,Cafe e infusiones MaxHogar 547,Bebidas,Cafe e infusiones,MaxHogar,13.79,10.11,2020-06-19
+P0533,Panaderia Rimac Hogar 968,Abarrotes,Panaderia,Rimac Hogar,7.73,5.28,2021-01-30
+P0534,Refrigeradoras Amauta 945,Electrohogar,Refrigeradoras,Amauta,121.16,94.26,2022-05-23
+P0535,Agua Amauta 412,Bebidas,Agua,Amauta,9.83,6.51,2022-12-15
+P0536,Shampoo Costa Real 681,Cuidado Personal,Shampoo,Costa Real,11.82,9.0,2018-11-26
+P0537,Azucar y sal MaxHogar 713,Abarrotes,Azucar y sal,MaxHogar,18.53,11.24,2020-03-26
+P0538,Microondas Inca Blanco 873,Electrohogar,Microondas,Inca Blanco,108.26,67.21,2021-11-17
+P0539,Energizantes Sureña 637,Bebidas,Energizantes,Sureña,20.59,13.94,2021-12-24
+P0540,Fideos Inca Blanco 198,Abarrotes,Fideos,Inca Blanco,4.87,3.62,2023-01-10
+P0541,Cuidado dental Selecta 263,Cuidado Personal,Cuidado dental,Selecta,13.62,9.99,2019-01-07
+P0542,Cafe e infusiones Amauta 573,Bebidas,Cafe e infusiones,Amauta,3.64,2.74,2021-06-01
+P0543,Agua Valle Norte 515,Bebidas,Agua,Valle Norte,4.77,3.68,2023-04-28
+P0544,Azucar y sal Inca Blanco 673,Abarrotes,Azucar y sal,Inca Blanco,6.47,4.12,2022-06-19
+P0545,Menaje de cocina Sureña 610,Hogar,Menaje de cocina,Sureña,108.68,71.21,2018-05-06
+P0546,Gaseosas Nortex 877,Bebidas,Gaseosas,Nortex,4.7,3.07,2022-03-16
+P0547,Jabon Selecta 694,Cuidado Personal,Jabon,Selecta,11.22,8.62,2018-10-26
+P0548,Iluminacion Trujillana 224,Hogar,Iluminacion,Trujillana,30.93,22.28,2023-01-20
+P0549,Microondas MaxHogar 545,Electrohogar,Microondas,MaxHogar,91.71,63.95,2023-04-21
+P0550,Limpiadores de superficie Inca Blanco 758,Limpieza,Limpiadores de superficie,Inca Blanco,6.75,4.21,2018-07-30
+P0551,Gaseosas Wari 113,Bebidas,Gaseosas,Wari,23.39,14.85,2019-07-16
+P0552,Limpiadores de superficie Frescor 61,Limpieza,Limpiadores de superficie,Frescor,10.11,7.82,2019-09-18
+P0553,Refrigeradoras Inca Blanco 443,Electrohogar,Refrigeradoras,Inca Blanco,574.14,381.31,2018-09-04
+P0554,Agua Valle Norte 782,Bebidas,Agua,Valle Norte,3.64,2.58,2021-08-29
+P0555,Bolsas Limax 399,Limpieza,Bolsas,Limax,5.46,3.95,2018-08-26
+P0556,Menestras Vital 146,Abarrotes,Menestras,Vital,19.42,13.88,2018-09-20
+P0557,Limpiadores de superficie Nortex 154,Limpieza,Limpiadores de superficie,Nortex,38.19,26.1,2022-08-05
+P0558,Desodorantes Costa Real 99,Cuidado Personal,Desodorantes,Costa Real,12.82,8.11,2021-09-29
+P0559,Refrigeradoras Andina 436,Electrohogar,Refrigeradoras,Andina,667.96,412.63,2019-06-17
+P0560,Cafe e infusiones Costa Real 194,Bebidas,Cafe e infusiones,Costa Real,3.15,1.99,2022-03-12
+P0561,Limpiadores de superficie Trujillana 577,Limpieza,Limpiadores de superficie,Trujillana,16.37,10.92,2019-06-07
+P0562,Decoracion Amauta 66,Hogar,Decoracion,Amauta,166.9,126.56,2022-07-25
+P0563,Limpiadores de superficie Vital 832,Limpieza,Limpiadores de superficie,Vital,19.27,14.44,2018-12-11
+P0564,Menestras Kallpa 130,Abarrotes,Menestras,Kallpa,15.06,9.25,2021-04-17
+P0565,Limpiadores de superficie Nortex 260,Limpieza,Limpiadores de superficie,Nortex,7.84,5.85,2020-11-15
+P0566,Conservas Andina 694,Abarrotes,Conservas,Andina,29.57,21.95,2021-08-13
+P0567,Desodorantes Sol Peruano 267,Cuidado Personal,Desodorantes,Sol Peruano,22.5,16.18,2023-12-05
+P0568,Gaseosas Inca Blanco 169,Bebidas,Gaseosas,Inca Blanco,6.82,4.21,2022-08-29
+P0569,Papel higienico Sureña 905,Limpieza,Papel higienico,Sureña,15.53,9.98,2020-05-01
+P0570,Azucar y sal Amauta 53,Abarrotes,Azucar y sal,Amauta,5.51,3.62,2022-04-28
+P0571,Shampoo Inca Blanco 601,Cuidado Personal,Shampoo,Inca Blanco,25.77,15.64,2021-05-20
+P0572,Shampoo Trujillana 37,Cuidado Personal,Shampoo,Trujillana,12.95,8.55,2019-01-07
+P0573,Cafe e infusiones Costa Real 407,Bebidas,Cafe e infusiones,Costa Real,3.28,2.0,2019-07-27
+P0574,Cervezas MaxHogar 985,Bebidas,Cervezas,MaxHogar,3.19,2.34,2023-12-16
+P0575,Textiles de hogar Frescor 530,Hogar,Textiles de hogar,Frescor,16.49,10.65,2021-08-08
+P0576,Limpiadores de superficie Piurana 607,Limpieza,Limpiadores de superficie,Piurana,12.23,9.42,2022-11-10
+P0577,Decoracion Andina 434,Hogar,Decoracion,Andina,60.46,41.53,2022-10-11
+P0578,Detergentes Sol Peruano 648,Limpieza,Detergentes,Sol Peruano,5.93,4.7,2018-04-23
+P0579,Arroz Wari 110,Abarrotes,Arroz,Wari,8.01,5.62,2021-04-03
+P0580,Cervezas Trujillana 9,Bebidas,Cervezas,Trujillana,4.97,3.1,2020-10-13
+P0581,Fideos Limax 509,Abarrotes,Fideos,Limax,6.24,4.26,2020-06-24
+P0582,Papel higienico Valle Norte 538,Limpieza,Papel higienico,Valle Norte,9.1,6.63,2024-05-05
+P0583,Microondas Inca Blanco 487,Electrohogar,Microondas,Inca Blanco,154.77,105.26,2022-04-13
+P0584,Decoracion Valle Norte 575,Hogar,Decoracion,Valle Norte,44.75,35.3,2022-07-30
+P0585,Cervezas Frescor 545,Bebidas,Cervezas,Frescor,2.08,1.48,2022-09-29
+P0586,Lejia Valle Norte 826,Limpieza,Lejia,Valle Norte,10.2,7.11,2022-09-01
+P0587,Cervezas Trujillana 244,Bebidas,Cervezas,Trujillana,9.11,6.36,2019-10-07
+P0588,Lejia Cusco Natural 332,Limpieza,Lejia,Cusco Natural,11.23,8.22,2024-01-08
+P0589,Ventiladores Amauta 636,Electrohogar,Ventiladores,Amauta,155.34,103.55,2020-08-04
+P0590,Menestras Cusco Natural 531,Abarrotes,Menestras,Cusco Natural,6.23,4.02,2024-03-03
+P0591,Lejia Vital 256,Limpieza,Lejia,Vital,7.58,5.52,2022-05-01
+P0592,Jabon Pacifico Home 967,Cuidado Personal,Jabon,Pacifico Home,10.07,7.96,2020-02-09
+P0593,Detergentes Sureña 599,Limpieza,Detergentes,Sureña,33.23,21.19,2023-12-09
+P0594,Conservas Andina 267,Abarrotes,Conservas,Andina,26.92,19.03,2022-12-01
+P0595,Cuidado facial Vital 788,Cuidado Personal,Cuidado facial,Vital,20.21,13.28,2021-12-28
+P0596,Azucar y sal Sol Peruano 942,Abarrotes,Azucar y sal,Sol Peruano,3.27,2.52,2022-11-23
+P0597,Organizadores Vital 570,Hogar,Organizadores,Vital,74.19,51.7,2022-04-29
+P0598,Panaderia Frescor 956,Abarrotes,Panaderia,Frescor,4.77,2.9,2021-05-08
+P0599,Menaje de cocina Andina 378,Hogar,Menaje de cocina,Andina,145.3,99.35,2024-03-26
+P0600,Cervezas Amauta 542,Bebidas,Cervezas,Amauta,3.19,2.13,2024-03-21
+P0601,Menestras Nortex 811,Abarrotes,Menestras,Nortex,28.87,23.06,2019-02-27
+P0602,Azucar y sal Andina 636,Abarrotes,Azucar y sal,Andina,4.19,3.02,2021-06-08
+P0603,Cuidado facial MaxHogar 65,Cuidado Personal,Cuidado facial,MaxHogar,13.61,10.31,2021-06-29
+P0604,Cuidado dental Sol Peruano 311,Cuidado Personal,Cuidado dental,Sol Peruano,7.78,5.31,2019-01-03
+P0605,Menaje de cocina Kallpa 819,Hogar,Menaje de cocina,Kallpa,12.04,9.26,2022-07-11
+P0606,Conservas Valle Norte 172,Abarrotes,Conservas,Valle Norte,3.77,2.51,2021-07-29
+P0607,Fideos Sol Peruano 878,Abarrotes,Fideos,Sol Peruano,14.37,9.64,2021-06-25
+P0608,Detergentes Wari 623,Limpieza,Detergentes,Wari,20.0,14.11,2022-02-02
+P0609,Gaseosas Valle Norte 873,Bebidas,Gaseosas,Valle Norte,19.09,14.21,2021-05-09
+P0610,Azucar y sal Sol Peruano 906,Abarrotes,Azucar y sal,Sol Peruano,5.89,4.03,2018-08-31
+P0611,Planchas Sol Peruano 447,Electrohogar,Planchas,Sol Peruano,1142.0,876.35,2019-11-05
+P0612,Shampoo Andina 316,Cuidado Personal,Shampoo,Andina,14.93,11.74,2019-08-07
+P0613,Licuadoras Selecta 329,Electrohogar,Licuadoras,Selecta,270.57,214.2,2018-12-30
+P0614,Decoracion Sureña 291,Hogar,Decoracion,Sureña,74.68,50.77,2022-07-26
+P0615,Papel higienico Sureña 753,Limpieza,Papel higienico,Sureña,11.38,6.91,2022-11-09
+P0616,Decoracion Vital 685,Hogar,Decoracion,Vital,78.93,61.34,2020-02-23
+P0617,Agua Rimac Hogar 965,Bebidas,Agua,Rimac Hogar,4.67,3.23,2023-05-14
+P0618,Cervezas Wari 621,Bebidas,Cervezas,Wari,6.03,4.53,2022-10-19
+P0619,Shampoo Selecta 327,Cuidado Personal,Shampoo,Selecta,29.46,22.58,2020-04-16
+P0620,Jugos MaxHogar 168,Bebidas,Jugos,MaxHogar,12.37,8.29,2021-06-18
+P0621,Detergentes Cusco Natural 30,Limpieza,Detergentes,Cusco Natural,6.67,4.77,2018-01-15
+P0622,Planchas Vital 317,Electrohogar,Planchas,Vital,1241.68,756.58,2023-08-03
+P0623,Gaseosas Trujillana 83,Bebidas,Gaseosas,Trujillana,4.4,2.9,2019-06-07
+P0624,Menaje de cocina Kallpa 832,Hogar,Menaje de cocina,Kallpa,25.58,18.1,2024-02-17
+P0625,Jabon Kallpa 826,Cuidado Personal,Jabon,Kallpa,24.78,17.19,2022-09-11
+P0626,Televisores Nortex 240,Electrohogar,Televisores,Nortex,652.7,437.7,2021-02-01
+P0627,Jabon Rimac Hogar 315,Cuidado Personal,Jabon,Rimac Hogar,44.3,31.87,2019-03-21
+P0628,Shampoo Sol Peruano 457,Cuidado Personal,Shampoo,Sol Peruano,19.28,12.56,2020-06-07
+P0629,Iluminacion Valle Norte 764,Hogar,Iluminacion,Valle Norte,40.16,28.59,2018-04-27
+P0630,Cervezas Trujillana 418,Bebidas,Cervezas,Trujillana,4.18,3.21,2024-02-24
+P0631,Bolsas Sol Peruano 201,Limpieza,Bolsas,Sol Peruano,10.96,7.21,2018-05-18
+P0632,Lejia Valle Norte 163,Limpieza,Lejia,Valle Norte,16.1,10.7,2019-01-30
+P0633,Cafe e infusiones Amauta 30,Bebidas,Cafe e infusiones,Amauta,24.91,15.46,2018-11-14
+P0634,Lejia Nortex 237,Limpieza,Lejia,Nortex,22.05,17.26,2020-07-03
+P0635,Energizantes Wari 25,Bebidas,Energizantes,Wari,2.13,1.42,2021-02-28
+P0636,Detergentes Kallpa 797,Limpieza,Detergentes,Kallpa,10.52,7.62,2019-05-31
+P0637,Microondas Costa Real 331,Electrohogar,Microondas,Costa Real,1755.28,1112.47,2020-12-20
+P0638,Fideos Valle Norte 835,Abarrotes,Fideos,Valle Norte,17.79,11.27,2021-10-31
+P0639,Bolsas Wari 277,Limpieza,Bolsas,Wari,26.71,21.1,2023-01-29
+P0640,Energizantes Sol Peruano 40,Bebidas,Energizantes,Sol Peruano,7.95,5.3,2023-09-06
+P0641,Panaderia MaxHogar 473,Abarrotes,Panaderia,MaxHogar,16.3,9.96,2020-01-27
+P0642,Refrigeradoras Valle Norte 837,Electrohogar,Refrigeradoras,Valle Norte,244.03,195.16,2019-04-10
+P0643,Energizantes Amauta 67,Bebidas,Energizantes,Amauta,16.7,10.33,2020-01-27
+P0644,Arroz Sureña 724,Abarrotes,Arroz,Sureña,17.55,11.77,2019-01-04
+P0645,Televisores Cusco Natural 658,Electrohogar,Televisores,Cusco Natural,81.89,58.6,2021-03-17
+P0646,Papel higienico Selecta 264,Limpieza,Papel higienico,Selecta,29.81,20.43,2021-08-08
+P0647,Decoracion Limax 212,Hogar,Decoracion,Limax,99.76,73.4,2019-07-17
+P0648,Arroz MaxHogar 192,Abarrotes,Arroz,MaxHogar,28.31,19.31,2020-01-24
+P0649,Jugos Frescor 787,Bebidas,Jugos,Frescor,3.28,2.53,2023-07-31
+P0650,Lejia Valle Norte 221,Limpieza,Lejia,Valle Norte,39.69,30.62,2020-04-14
+P0651,Lejia Rimac Hogar 681,Limpieza,Lejia,Rimac Hogar,16.2,12.41,2024-04-05
+P0652,Shampoo Rimac Hogar 672,Cuidado Personal,Shampoo,Rimac Hogar,12.71,8.4,2019-06-07
+P0653,Jabon Trujillana 687,Cuidado Personal,Jabon,Trujillana,44.64,34.6,2020-02-09
+P0654,Gaseosas Limax 998,Bebidas,Gaseosas,Limax,2.77,2.15,2019-09-30
+P0655,Fideos Nortex 149,Abarrotes,Fideos,Nortex,10.29,8.15,2023-02-17
+P0656,Decoracion Kallpa 472,Hogar,Decoracion,Kallpa,13.57,9.8,2022-09-18
+P0657,Cafe e infusiones Vital 756,Bebidas,Cafe e infusiones,Vital,18.95,14.18,2020-04-22
+P0658,Limpiadores de superficie Frescor 621,Limpieza,Limpiadores de superficie,Frescor,7.6,5.27,2022-01-20
+P0659,Ventiladores Costa Real 684,Electrohogar,Ventiladores,Costa Real,422.71,264.43,2020-09-08
+P0660,Refrigeradoras Trujillana 752,Electrohogar,Refrigeradoras,Trujillana,97.94,71.58,2019-06-28
+P0661,Fideos Cusco Natural 458,Abarrotes,Fideos,Cusco Natural,4.69,3.19,2020-03-24
+P0662,Agua Trujillana 525,Bebidas,Agua,Trujillana,2.29,1.52,2018-03-08
+P0663,Azucar y sal Sureña 917,Abarrotes,Azucar y sal,Sureña,11.19,8.79,2022-06-30
+P0664,Jabon MaxHogar 427,Cuidado Personal,Jabon,MaxHogar,15.15,11.71,2018-08-25
+P0665,Fideos Amauta 288,Abarrotes,Fideos,Amauta,5.68,4.06,2019-03-28
+P0666,Panaderia Vital 305,Abarrotes,Panaderia,Vital,6.66,4.09,2019-07-08
+P0667,Lejia Frescor 403,Limpieza,Lejia,Frescor,4.12,2.63,2020-08-23
+P0668,Cuidado facial Inca Blanco 866,Cuidado Personal,Cuidado facial,Inca Blanco,10.94,8.04,2022-11-06
+P0669,Cervezas Kallpa 419,Bebidas,Cervezas,Kallpa,5.86,3.86,2020-09-12
+P0670,Textiles de hogar Costa Real 69,Hogar,Textiles de hogar,Costa Real,131.35,86.65,2023-08-08
+P0671,Panaderia Cusco Natural 623,Abarrotes,Panaderia,Cusco Natural,23.39,18.06,2024-06-03
+P0672,Cervezas Sureña 539,Bebidas,Cervezas,Sureña,22.63,16.92,2023-09-03
+P0673,Gaseosas Trujillana 774,Bebidas,Gaseosas,Trujillana,14.16,10.6,2022-05-20
+P0674,Textiles de hogar Vital 725,Hogar,Textiles de hogar,Vital,175.18,117.86,2019-02-19
+P0675,Cuidado dental Limax 15,Cuidado Personal,Cuidado dental,Limax,19.09,12.71,2019-06-24
+P0676,Panaderia Vital 557,Abarrotes,Panaderia,Vital,8.45,6.53,2021-07-29
+P0677,Aceites Valle Norte 217,Abarrotes,Aceites,Valle Norte,17.52,11.2,2019-10-17
+P0678,Decoracion MaxHogar 946,Hogar,Decoracion,MaxHogar,58.33,43.51,2019-07-03
+P0679,Fideos Vital 743,Abarrotes,Fideos,Vital,5.75,3.9,2022-04-18
+P0680,Organizadores Rimac Hogar 892,Hogar,Organizadores,Rimac Hogar,14.66,9.79,2019-06-02
+P0681,Arroz Selecta 960,Abarrotes,Arroz,Selecta,8.26,5.71,2018-03-02
+P0682,Aceites Kallpa 126,Abarrotes,Aceites,Kallpa,3.77,2.31,2021-08-18
+P0683,Refrigeradoras Rimac Hogar 253,Electrohogar,Refrigeradoras,Rimac Hogar,364.82,249.83,2021-03-08
+P0684,Jabon Vital 813,Cuidado Personal,Jabon,Vital,7.02,5.06,2023-09-09
+P0685,Cuidado dental Sol Peruano 328,Cuidado Personal,Cuidado dental,Sol Peruano,5.78,4.09,2020-07-24
+P0686,Cuidado dental Kallpa 264,Cuidado Personal,Cuidado dental,Kallpa,10.58,6.52,2020-04-09
+P0687,Decoracion Sureña 954,Hogar,Decoracion,Sureña,148.67,99.15,2023-09-06
+P0688,Menaje de cocina Rimac Hogar 498,Hogar,Menaje de cocina,Rimac Hogar,27.07,18.81,2020-03-19
+P0689,Jugos MaxHogar 812,Bebidas,Jugos,MaxHogar,8.53,6.78,2018-01-14
+P0690,Cuidado dental Frescor 878,Cuidado Personal,Cuidado dental,Frescor,15.95,11.39,2024-06-07
+P0691,Cafe e infusiones Sureña 299,Bebidas,Cafe e infusiones,Sureña,5.22,3.93,2020-11-14
+P0692,Desodorantes Andina 566,Cuidado Personal,Desodorantes,Andina,43.32,30.45,2019-06-10
+P0693,Bolsas Andina 810,Limpieza,Bolsas,Andina,8.87,6.58,2023-03-31
+P0694,Energizantes Limax 963,Bebidas,Energizantes,Limax,6.56,4.33,2018-02-01
+P0695,Textiles de hogar Cusco Natural 78,Hogar,Textiles de hogar,Cusco Natural,34.16,24.41,2022-01-17
+P0696,Ventiladores Kallpa 375,Electrohogar,Ventiladores,Kallpa,460.35,321.39,2022-12-24
+P0697,Cervezas Pacifico Home 437,Bebidas,Cervezas,Pacifico Home,10.03,6.6,2019-04-22
+P0698,Iluminacion Vital 864,Hogar,Iluminacion,Vital,21.2,15.71,2018-11-07
+P0699,Ventiladores Amauta 995,Electrohogar,Ventiladores,Amauta,580.26,409.2,2020-10-04
+P0700,Bolsas Frescor 640,Limpieza,Bolsas,Frescor,9.54,6.46,2021-03-30
+P0701,Energizantes Frescor 107,Bebidas,Energizantes,Frescor,3.94,2.82,2020-02-07
+P0702,Energizantes Amauta 927,Bebidas,Energizantes,Amauta,10.25,6.64,2019-10-12
+P0703,Desodorantes Rimac Hogar 431,Cuidado Personal,Desodorantes,Rimac Hogar,11.38,8.94,2022-04-09
+P0704,Cuidado facial Wari 12,Cuidado Personal,Cuidado facial,Wari,8.09,5.81,2021-09-18
+P0705,Planchas Selecta 103,Electrohogar,Planchas,Selecta,162.11,126.75,2020-01-19
+P0706,Ventiladores Selecta 465,Electrohogar,Ventiladores,Selecta,571.61,435.62,2024-05-08
+P0707,Televisores Wari 258,Electrohogar,Televisores,Wari,73.18,55.48,2023-01-09
+P0708,Menaje de cocina Sol Peruano 642,Hogar,Menaje de cocina,Sol Peruano,78.15,50.34,2022-02-18
+P0709,Licuadoras Costa Real 130,Electrohogar,Licuadoras,Costa Real,1005.77,727.27,2023-03-15
+P0710,Ventiladores Kallpa 26,Electrohogar,Ventiladores,Kallpa,1142.19,753.06,2018-11-22
+P0711,Detergentes Andina 141,Limpieza,Detergentes,Andina,19.98,15.96,2022-12-06
+P0712,Shampoo Inca Blanco 747,Cuidado Personal,Shampoo,Inca Blanco,5.27,3.99,2019-03-04
+P0713,Televisores Amauta 273,Electrohogar,Televisores,Amauta,840.57,609.52,2021-08-13
+P0714,Bolsas Inca Blanco 89,Limpieza,Bolsas,Inca Blanco,15.52,11.47,2018-03-26
+P0715,Jabon Andina 756,Cuidado Personal,Jabon,Andina,9.01,6.72,2018-10-18
+P0716,Bolsas Piurana 46,Limpieza,Bolsas,Piurana,33.51,21.23,2024-01-03
+P0717,Cafe e infusiones Pacifico Home 509,Bebidas,Cafe e infusiones,Pacifico Home,2.24,1.71,2024-01-28
+P0718,Cuidado facial Sol Peruano 59,Cuidado Personal,Cuidado facial,Sol Peruano,5.49,3.72,2018-06-24
+P0719,Microondas Inca Blanco 65,Electrohogar,Microondas,Inca Blanco,572.5,414.87,2022-08-29
+P0720,Agua Cusco Natural 850,Bebidas,Agua,Cusco Natural,3.11,1.95,2020-05-01
+P0721,Planchas Wari 465,Electrohogar,Planchas,Wari,412.63,285.8,2018-11-16
+P0722,Desodorantes MaxHogar 48,Cuidado Personal,Desodorantes,MaxHogar,43.9,26.98,2021-12-24
+P0723,Arroz Limax 521,Abarrotes,Arroz,Limax,8.05,4.84,2021-05-12
+P0724,Textiles de hogar Kallpa 424,Hogar,Textiles de hogar,Kallpa,51.43,38.72,2021-11-01
+P0725,Cuidado facial Sureña 65,Cuidado Personal,Cuidado facial,Sureña,5.32,3.39,2019-12-08
+P0726,Jabon Cusco Natural 994,Cuidado Personal,Jabon,Cusco Natural,7.47,4.56,2021-06-28
+P0727,Cuidado facial Rimac Hogar 185,Cuidado Personal,Cuidado facial,Rimac Hogar,12.81,9.83,2021-06-21
+P0728,Planchas Cusco Natural 200,Electrohogar,Planchas,Cusco Natural,761.24,522.55,2022-11-14
+P0729,Arroz Pacifico Home 115,Abarrotes,Arroz,Pacifico Home,11.75,8.95,2019-03-02
+P0730,Organizadores Nortex 461,Hogar,Organizadores,Nortex,57.59,45.97,2023-11-11
+P0731,Microondas Sureña 312,Electrohogar,Microondas,Sureña,147.21,98.49,2022-06-10
+P0732,Panaderia Costa Real 396,Abarrotes,Panaderia,Costa Real,10.4,7.15,2019-12-04
+P0733,Agua Andina 314,Bebidas,Agua,Andina,23.33,14.51,2024-04-17
+P0734,Agua MaxHogar 120,Bebidas,Agua,MaxHogar,5.67,3.68,2023-05-15
+P0735,Iluminacion Pacifico Home 118,Hogar,Iluminacion,Pacifico Home,200.07,135.21,2018-05-01
+P0736,Microondas MaxHogar 229,Electrohogar,Microondas,MaxHogar,169.35,118.38,2020-04-05
+P0737,Limpiadores de superficie Limax 261,Limpieza,Limpiadores de superficie,Limax,7.88,4.82,2019-09-09
+P0738,Fideos MaxHogar 291,Abarrotes,Fideos,MaxHogar,8.99,5.88,2018-07-10
+P0739,Ventiladores Wari 688,Electrohogar,Ventiladores,Wari,155.35,104.58,2020-08-31
+P0740,Jabon Cusco Natural 933,Cuidado Personal,Jabon,Cusco Natural,6.87,4.75,2021-05-29
+P0741,Cuidado dental Trujillana 724,Cuidado Personal,Cuidado dental,Trujillana,19.5,13.79,2021-02-22
+P0742,Shampoo Vital 504,Cuidado Personal,Shampoo,Vital,8.61,6.59,2020-12-16
+P0743,Jabon Kallpa 743,Cuidado Personal,Jabon,Kallpa,32.45,23.34,2020-03-30
+P0744,Decoracion Wari 933,Hogar,Decoracion,Wari,12.35,8.84,2020-12-23
+P0745,Menaje de cocina Nortex 837,Hogar,Menaje de cocina,Nortex,167.02,116.56,2018-05-27
+P0746,Energizantes Sureña 668,Bebidas,Energizantes,Sureña,17.74,14.01,2022-06-05
+P0747,Aceites Selecta 185,Abarrotes,Aceites,Selecta,7.97,5.02,2023-03-06
+P0748,Textiles de hogar Sureña 444,Hogar,Textiles de hogar,Sureña,11.03,6.67,2021-09-05
+P0749,Decoracion Wari 359,Hogar,Decoracion,Wari,27.43,17.63,2020-05-25
+P0750,Shampoo Sureña 75,Cuidado Personal,Shampoo,Sureña,38.29,29.8,2020-05-15
+P0751,Energizantes Wari 307,Bebidas,Energizantes,Wari,3.11,1.92,2021-08-17
+P0752,Cuidado dental Sureña 358,Cuidado Personal,Cuidado dental,Sureña,30.98,23.44,2024-03-08
+P0753,Refrigeradoras Pacifico Home 412,Electrohogar,Refrigeradoras,Pacifico Home,935.74,681.31,2023-01-22
+P0754,Gaseosas Amauta 411,Bebidas,Gaseosas,Amauta,3.87,2.43,2022-12-07
+P0755,Azucar y sal Rimac Hogar 347,Abarrotes,Azucar y sal,Rimac Hogar,13.42,8.64,2022-08-16
+P0756,Desodorantes Sol Peruano 961,Cuidado Personal,Desodorantes,Sol Peruano,6.11,4.7,2024-02-09
+P0757,Textiles de hogar Piurana 280,Hogar,Textiles de hogar,Piurana,13.28,9.27,2023-08-20
+P0758,Licuadoras Inca Blanco 417,Electrohogar,Licuadoras,Inca Blanco,1637.93,1188.05,2024-01-15
+P0759,Panaderia Trujillana 660,Abarrotes,Panaderia,Trujillana,5.27,3.84,2022-07-06
+P0760,Lejia Amauta 157,Limpieza,Lejia,Amauta,9.86,5.95,2020-07-25
+P0761,Shampoo Sol Peruano 927,Cuidado Personal,Shampoo,Sol Peruano,9.08,5.5,2020-03-06
+P0762,Detergentes Trujillana 231,Limpieza,Detergentes,Trujillana,35.89,24.45,2020-05-19
+P0763,Gaseosas Sureña 991,Bebidas,Gaseosas,Sureña,2.22,1.35,2023-01-14
+P0764,Conservas Piurana 784,Abarrotes,Conservas,Piurana,5.79,4.46,2022-11-21
+P0765,Televisores Sol Peruano 165,Electrohogar,Televisores,Sol Peruano,611.88,485.52,2023-01-25
+P0766,Decoracion Wari 658,Hogar,Decoracion,Wari,12.07,8.45,2019-05-25
+P0767,Arroz Nortex 172,Abarrotes,Arroz,Nortex,7.57,5.55,2024-04-18
+P0768,Conservas Wari 30,Abarrotes,Conservas,Wari,4.75,3.61,2019-05-07
+P0769,Gaseosas Sol Peruano 843,Bebidas,Gaseosas,Sol Peruano,11.86,7.44,2018-07-01
+P0770,Cervezas Vital 15,Bebidas,Cervezas,Vital,3.33,2.54,2021-03-17
+P0771,Organizadores Frescor 315,Hogar,Organizadores,Frescor,36.01,22.51,2022-07-10
+P0772,Ventiladores Frescor 894,Electrohogar,Ventiladores,Frescor,203.75,137.8,2022-10-28
+P0773,Bolsas Trujillana 769,Limpieza,Bolsas,Trujillana,5.74,4.4,2021-08-04
+P0774,Iluminacion Piurana 843,Hogar,Iluminacion,Piurana,11.22,8.01,2021-01-11
+P0775,Panaderia Piurana 549,Abarrotes,Panaderia,Piurana,9.43,6.55,2023-08-23
+P0776,Jugos Frescor 257,Bebidas,Jugos,Frescor,10.58,7.84,2022-01-26
+P0777,Detergentes Costa Real 686,Limpieza,Detergentes,Costa Real,6.41,4.02,2021-08-05
+P0778,Papel higienico Amauta 51,Limpieza,Papel higienico,Amauta,13.94,10.98,2020-04-08
+P0779,Energizantes Pacifico Home 313,Bebidas,Energizantes,Pacifico Home,14.56,10.6,2022-06-21
+P0780,Bolsas Rimac Hogar 206,Limpieza,Bolsas,Rimac Hogar,11.39,8.12,2023-05-22
+P0781,Textiles de hogar Inca Blanco 311,Hogar,Textiles de hogar,Inca Blanco,105.36,71.49,2023-04-18
+P0782,Shampoo Frescor 118,Cuidado Personal,Shampoo,Frescor,15.59,12.02,2018-02-20
+P0783,Organizadores Sureña 651,Hogar,Organizadores,Sureña,56.12,34.59,2020-03-24
+P0784,Jugos Pacifico Home 730,Bebidas,Jugos,Pacifico Home,2.18,1.53,2021-08-10
+P0785,Cafe e infusiones Trujillana 970,Bebidas,Cafe e infusiones,Trujillana,8.71,6.81,2020-05-07
+P0786,Shampoo Pacifico Home 904,Cuidado Personal,Shampoo,Pacifico Home,11.71,8.84,2019-01-18
+P0787,Menaje de cocina Amauta 651,Hogar,Menaje de cocina,Amauta,110.04,67.89,2023-06-26
+P0788,Menaje de cocina Limax 589,Hogar,Menaje de cocina,Limax,20.13,15.15,2019-01-11
+P0789,Bolsas Wari 293,Limpieza,Bolsas,Wari,6.32,4.26,2022-01-16
+P0790,Cuidado dental Pacifico Home 351,Cuidado Personal,Cuidado dental,Pacifico Home,10.83,8.1,2021-02-06
+P0791,Fideos Selecta 680,Abarrotes,Fideos,Selecta,17.31,13.76,2024-01-03
+P0792,Menestras Frescor 574,Abarrotes,Menestras,Frescor,5.11,3.19,2022-04-30
+P0793,Menestras Trujillana 649,Abarrotes,Menestras,Trujillana,9.06,7.2,2021-12-29
+P0794,Planchas Nortex 11,Electrohogar,Planchas,Nortex,588.97,358.82,2021-05-25
+P0795,Conservas Rimac Hogar 504,Abarrotes,Conservas,Rimac Hogar,8.45,5.5,2024-04-27
+P0796,Bolsas Limax 166,Limpieza,Bolsas,Limax,20.68,12.96,2020-02-16
+P0797,Lejia Frescor 407,Limpieza,Lejia,Frescor,36.67,27.94,2023-03-04
+P0798,Jugos Cusco Natural 692,Bebidas,Jugos,Cusco Natural,3.65,2.51,2021-11-03
+P0799,Microondas Sureña 493,Electrohogar,Microondas,Sureña,353.23,221.16,2019-09-14
+P0800,Jugos Pacifico Home 112,Bebidas,Jugos,Pacifico Home,9.11,7.17,2018-03-23

@@ -1,0 +1,14 @@
+id_tienda,nombre,ciudad,region,tipo,area_m2,fecha_apertura
+T001,AndinaRetail Lima 1,Lima,Lima,Fisica,793,2016-06-06
+T002,AndinaRetail Lima 2,Lima,Lima,Fisica,199,2020-02-13
+T003,AndinaRetail Virtual Lima,Lima,Lima,Virtual,692,2020-11-13
+T004,AndinaRetail Arequipa 1,Arequipa,Arequipa,Fisica,237,2017-12-18
+T005,AndinaRetail Arequipa 2,Arequipa,Arequipa,Fisica,643,2017-11-03
+T006,AndinaRetail Virtual Arequipa,Arequipa,Arequipa,Virtual,1064,2022-02-28
+T007,AndinaRetail Trujillo 1,Trujillo,La Libertad,Fisica,687,2022-03-29
+T008,AndinaRetail Trujillo 2,Trujillo,La Libertad,Fisica,699,2016-06-02
+T009,AndinaRetail Virtual Trujillo,Trujillo,La Libertad,Virtual,1086,2021-08-11
+T010,AndinaRetail Cusco 1,Cusco,Cusco,Fisica,250,2017-05-21
+T011,AndinaRetail Virtual Cusco,Cusco,Cusco,Virtual,532,2022-11-13
+T012,AndinaRetail Piura 1,Piura,Piura,Fisica,704,2022-05-11
+T013,AndinaRetail Virtual Piura,Piura,Piura,Virtual,625,2021-07-18
