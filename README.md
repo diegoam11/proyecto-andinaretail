@@ -65,30 +65,6 @@ Los notebooks ya están entregados **ejecutados** (con salidas visibles),
 pero pueden volver a correrse de punta a punta sin errores siempre que
 `datos/` contenga los CSV generados en el paso 3.
 
-## Estado de entregables
-
-| Entregable | Estado |
-|---|---|
-| Script de generación de datos + CSV + diccionario de datos | ✅ Completo |
-| Notebook 01 — Técnicas estadísticas | ✅ Completo, ejecutado sin errores |
-| Notebook 02 — Descriptivo y diagnóstico | ✅ Completo, ejecutado sin errores |
-| Notebook 03 — Modelos predictivos | ✅ Completo, ejecutado sin errores |
-| Notebook 04 — Modelos prescriptivos | ✅ Completo, ejecutado sin errores |
-| Bitácora de prompts | ✅ Completo (`docs/bitacora_prompts.md`) |
-| Cuadro de autoevaluación | ✅ Completo (`docs/autoevaluacion.md`) |
-| **Power BI (`.pbix` + PDF)** | ⏳ **Pendiente** — ver nota abajo |
-| Presentación final | ✅ Completo (`presentacion/AndinaRetail_Presentacion_Final.pptx`, 21 slides, 3 bloques de 4 min) — falta completar nombres reales de integrantes |
-
-### Nota sobre la Parte 5 (Power BI)
-
-Microsoft Power BI Desktop es una aplicación **solo para Windows**, por lo
-que esta parte no se desarrolló en este entorno (macOS). Los 5 archivos CSV
-en `datos/` ya están listos, limpios y documentados para importarse
-directamente a Power BI y construir el modelo de datos (relaciones +
-calendario), las medidas DAX y las páginas de tablero exigidas en la
-Sección 6.5 del PG. Esta parte se completará por separado en un equipo con
-Windows (o vía Power BI Service en el navegador) antes de la entrega final.
-
 ## Resumen de resultados clave
 
 - **Parte 1:** se contrastaron 3 hipótesis (t-test canal, ANOVA ciudad,
