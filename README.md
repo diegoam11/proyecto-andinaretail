@@ -1,7 +1,7 @@
 # Proyecto Grupal — AndinaRetail S.A.C.
 
 Analítica de Datos (código 2011104, Plan 2018) — E.P. Ingeniería de
-Software, FISI, UNMSM. Ciclo X — Semestre 2026-1 — Docente: Mg. Juan
+Software, FISI, UNMSM. Ciclo 10 — Semestre 2026-1 — Docente: Mg. Juan
 Gamarra Moreno.
 
 Caso integrador: **AndinaRetail S.A.C.**, empresa ficticia de retail
