@@ -16,11 +16,11 @@ Trujillo, Cusco y Piura. Todos los datos son sintéticos (ver
 
 | Integrante | Rol |
 |---|---|
-| _Por completar_ | Líder de proyecto / Data PM |
-| _Por completar_ | Ingeniero(a) de datos |
-| _Por completar_ | Analista estadístico / descriptivo |
-| _Por completar_ | Científico(a) de datos |
-| _Por completar_ | Analista de optimización / BI |
+| Diego Alvarez | Líder de proyecto / Data PM |
+| Diego Alvarez | Ingeniero(a) de datos |
+| Diego Linares | Analista estadístico / descriptivo |
+| Diego Linares | Científico(a) de datos |
+| Enzo Osorio | Analista de optimización / BI |
 
 ## Estructura del repositorio
 
