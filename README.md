@@ -40,8 +40,9 @@ proyecto-final/
 ├── docs/
 │   ├── bitacora_prompts.md
 │   └── autoevaluacion.md
-├── powerbi/    # Parte 5 — PENDIENTE (ver más abajo)
-└── presentacion/  # PENDIENTE
+├── powerbi/    # Parte 5 — andinaRetail.pbix + andinaRetail.pdf
+└── presentacion/
+    └── AndinaRetail_Presentacion_Final.pdf
 ```
 
 ## Cómo ejecutar el proyecto
