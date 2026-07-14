@@ -77,7 +77,7 @@ pero pueden volver a correrse de punta a punta sin errores siempre que
 | Bitácora de prompts | ✅ Completo (`docs/bitacora_prompts.md`) |
 | Cuadro de autoevaluación | ✅ Completo (`docs/autoevaluacion.md`) |
 | **Power BI (`.pbix` + PDF)** | ⏳ **Pendiente** — ver nota abajo |
-| Presentación final | ⏳ Pendiente — preparar antes de la defensa oral |
+| Presentación final | ✅ Completo (`presentacion/AndinaRetail_Presentacion_Final.pptx`, 21 slides, 3 bloques de 4 min) — falta completar nombres reales de integrantes |
 
 ### Nota sobre la Parte 5 (Power BI)
 
@@ -92,11 +92,16 @@ Windows (o vía Power BI Service en el navegador) antes de la entrega final.
 ## Resumen de resultados clave
 
 - **Parte 1:** se contrastaron 3 hipótesis (t-test canal, ANOVA ciudad,
-  chi-cuadrado categoría-método de pago) con supuestos verificados, y se
-  calcularon intervalos de confianza para el ticket promedio y la tasa de
-  churn.
+  chi-cuadrado categoría-método de pago) con supuestos verificados; ninguna
+  resultó significativa (p=0.373, p=0.677 y p=0.230 respectivamente), lo
+  que indica un comportamiento homogéneo de ticket promedio entre canales y
+  ciudades. Se añadió una cuarta prueba (ANOVA de ticket promedio por
+  categoría) que sí resultó altamente significativa (p<0.0001, Electrohogar
+  muy por encima del resto), respondiendo así la pregunta de negocio sobre
+  diferencias por categoría. Se calcularon además intervalos de confianza
+  para el ticket promedio y la tasa de churn.
 - **Parte 2:** se confirmó estadísticamente la caída de margen en Trujillo
-  desde 2025-Q2 (−6.74 p.p., explicada en −5.57 p.p. por mayor descuento y
+  desde 2025-Q2 (−6.73 p.p., explicada en −5.57 p.p. por mayor descuento y
   −1.17 p.p. por mayor costo de almacenamiento), y se segmentó a los
   clientes vía RFM y K-Means.
 - **Parte 3:** el modelo de demanda (Gradient Boosting) alcanzó R²=0.90 en
