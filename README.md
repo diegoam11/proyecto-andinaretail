@@ -40,7 +40,7 @@ proyecto-final/
 ├── docs/
 │   ├── bitacora_prompts.md
 │   └── autoevaluacion.md
-├── powerbi/    # Parte 5 — andinaRetail.pbix + andinaRetail.pdf
+├── powerbi/    # Parte 5 — andinaRetail.pbix + andinaRetail_tableros.pdf
 └── presentacion/
     └── AndinaRetail_Presentacion_Final.pdf
 ```
