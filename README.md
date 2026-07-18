@@ -1,4 +1,4 @@
-# Proyecto Grupal — AndinaRetail S.A.C.
+# GRUPO DED - Proyecto Grupal — AndinaRetail S.A.C.
 
 Analítica de Datos (código 2011104, Plan 2018) — E.P. Ingeniería de
 Software, FISI, UNMSM. Ciclo 10 — Semestre 2026-1 — Docente: Mg. Juan
