@@ -25,8 +25,7 @@ Trujillo, Cusco y Piura. Todos los datos son sintéticos (ver
 ## Estructura del repositorio
 
 ```
-proyecto-final/
-├── PG_Analitica_de_Datos.pdf     # enunciado oficial del proyecto
+proyecto-andinaretail/
 ├── requirements.txt
 ├── datos/
 │   ├── generar_datos.py          # script reproducible (semilla 2026)
@@ -40,9 +39,15 @@ proyecto-final/
 ├── docs/
 │   ├── bitacora_prompts.md
 │   └── autoevaluacion.md
-├── powerbi/    # Parte 5 — andinaRetail.pbix + andinaRetail_tableros.pdf
-└── presentacion/
-    └── AndinaRetail_Presentacion_Final.pdf
+├── powerbi/       # Parte 5
+│   ├── README.md
+│   ├── andinaRetail.pbix
+│   └── andinaRetail_tableros.pdf
+├── presentacion/
+│   └── AndinaRetail_Presentacion_Final.pdf
+└── exposicion/
+    ├── orden_exposicion.txt      
+    └── enlace_video.txt          # enlace al video de la exposición grabada
 ```
 
 ## Cómo ejecutar el proyecto
